@@ -1,0 +1,408 @@
+Processing 1/381: Ilona Abraham, MD
+Processing 2/381: Aundrea J. Adams, RN
+Processing 3/381: Charles C. Adams, MD
+Processing 4/381: Mike Adams
+Processing 5/381: Farrah Agustin-Bunch, MD
+Processing 6/381: George W. Allibone, MD
+Processing 7/381: Charles E. Anderson, MD
+Processing 8/381: Geoffrey S. Ames, MD
+Processing 9/381: David Amrein
+Processing 10/381: Rolando Arafiles, Jr., MD
+Processing 11/381: Scott Atlas, MD
+Error fetching https://www.nytimes.com/2020/09/02/us/politics/trump-scott-atlas-coronavirus.html: Request failed with status code 403
+Processing 12/381: Stephen B. Ayre, MD
+Processing 13/381: Nicholas Bachynsky, MD
+Processing 14/381: Jeff G. Baker, ND
+Processing 15/381: James F. Balch, MD
+Processing 16/381: Pastor Robert Baldwin
+Processing 17/381: Neal Barnard, MD
+Processing 18/381: Robert Barefoot
+Processing 19/381: Donald Barrett
+Processing 20/381: Jon Barron
+Processing 21/381: Elizabetth Bates, MD
+Processing 22/381: Noel Batten
+Processing 23/381: Michael A. Baylin, DDS
+Processing 24/381: Paul V. Beals, MD
+Processing 25/381: Joel Berger, DDS
+Processing 26/381: Rhett Bergeron, MD
+Processing 27/381: Brian Berman, MD
+Processing 28/381: Haim Bicher, MD
+Processing 29/381: Paula Bickle
+Processing 30/381: Jeffrey Bland, PhD
+Processing 31/381: Russell Blaylock, MD
+Processing 32/381: Kenneth R. Blum, MD
+Processing 33/381: Tim Bolen / Jan Bolen
+Processing 34/381: Ty Bollinger
+Processing 35/381: Dean Bonlie, DDS
+Processing 36/381: Victor Bouquette, MD
+Processing 37/381: Carole R. Bradford
+Processing 38/381: Trudy Bricker
+Processing 39/381: J.E. Bouquot, DDS, MSD
+Processing 40/381: Donald Brandt* / Sharon Brandt
+Processing 41/381: Eric T. Braverman, MD
+Processing 42/381: Peter R. Breggin, MD
+Processing 43/381: Mark Breiner, DDS
+Processing 44/381: Les Breitman, MD
+Processing 45/381: Joyce E. Brown, RN
+Processing 46/381: Jennie Burke
+Processing 47/381: Robert A. Burkich, MD
+Processing 48/381: U.S. Congressman Dan Burton
+Processing 49/381: Stanislaw Burzynski, MD
+Processing 50/381: Craig D. Butler, MD
+Error fetching https://www.quackwatch.org/11Ind/pmg.html: Request failed with status code 404
+Processing 51/381: Dolores Cahill, PhD
+Processing 52/381: Andrew W. Campbell, MD
+Processing 53/381: Jesus Caquias, MD
+Processing 54/381: Robert G. Carlson, MD
+Processing 55/381: Rebecca Lee Carley, MD
+Processing 56/381: Richard A. Carter, DO
+Processing 57/381: Sam Chachoua
+Processing 58/381: Stephen A. Cherniske
+Processing 59/381: Edmund Chein, MD
+Processing 60/381: Henry E. Childers IV, MD
+Processing 61/381: Deepak Chopra, MD
+Processing 62/381: Paul J. Cimoch, MD*
+Processing 63/381: Daniel G. Clark, MD
+Processing 64/381: Leonard Coldwell, ND, PhD
+Processing 65/381: Florence Comite, MD
+Processing 66/381: Leigh Erin Connealy, MD
+Processing 67/381: Paul Connett, PhD
+Error fetching http://www.odha.org/new/documents/FluorLegislatorsNRC.pdf: Request failed with status code 404
+Processing 68/381: Arthur Copes, PhD
+Processing 69/381: Lee Cowden, MD
+Processing 70/381: John E. Curran, MD, ND, PhD
+Processing 71/381: Robert M. Currier, DO
+Processing 72/381: Kazuko Curtin
+Processing 73/381: Greg Cynaumon
+Error fetching http://www.edresearch.com/: Request failed with status code 403
+Processing 74/381: Peter J. D’Adamo, ND
+Processing 75/381: Dragon Dabik aka D.D. David
+Processing 76/381: Irving I. Dardik, MD
+Processing 77/381: James Gary Davidson
+Processing 78/381: Richard Claire Davis, Jr, MD
+Processing 79/381: Phillip Day
+Processing 80/381: Carolyn Dean, MD
+Processing 81/381: Ward Dean, MD
+Processing 82/381: Charlene DeMarco, DO
+Processing 83/381: Robert DeMaria, DC
+Error fetching http://mylespower.co.uk/2013/01/16/3818/: Request failed with status code 403
+Processing 84/381: Errol Denton
+Processing 85/381: Keith R. DeOreo, MD
+Processing 86/381: Pieter J. De Wet, MD
+Processing 87/381: Jeanne Drisko, MD
+Processing 88/381: Harvey Diamond
+Processing 89/381:
+Processing 90/381: Marilyn Diamond
+Processing 91/381: John A. Dicke, PhD, JD
+Processing 92/381: John V. Dommisse, MD
+Processing 93/381: Bruce R. Dooley, MD
+Processing 94/381: Meryl Dorey
+Processing 95/381: Rodney Dotson, MD
+Processing 96/381: Eric A. Dover, MD*
+Processing 97/381: Harold J. Dykema, DC
+Processing 98/381: Stephen B. Edelson, MD
+Processing 99/381: Ted L. Edwards, MD
+Processing 100/381: John Edward
+Error fetching http://www.csicop.org/genx/edward/: Request failed with status code 404
+Processing 101/381: David Eisenberg, MD
+Processing 102/381: Mayer Eisenstein, MD
+Error fetching http://www.chicagotribune.com/news/local/chi-autism-doctor-eisenstein-may22,0,3826791.story: Request failed with status code 404
+Processing 103/381: Charles Farr, MD, PhD
+Error fetching http://www.sram.org/1101/charlesfarr.html: Request failed with status code 404
+Processing 104/381: Helke Ferrie
+Processing 105/381: Barbara Loe Fisher
+Processing 106/381: Roger H. Fisher, PhD
+Processing 107/381: Paul M. Fleiss, MD
+Error fetching http://www.caewatch.org/board/med/fleiss.pdf: getaddrinfo ENOTFOUND www.caewatch.org
+Processing 108/381: Peter C. Foster
+Error fetching http://www.dietscam.org/reports/foster.shtml: Request failed with status code 404
+Processing 109/381: David R. Friedman, DC, ND
+Processing 110/381: Wendi Friesen
+Processing 111/381: Viola M. Frymann, DO
+Processing 112/381: Arthur Furman, DDS
+Processing 113/381: Joanne Gallagher, DC
+Processing 114/381: Timoteo Galvez, MD
+Processing 115/381: John E. Gambee, MD
+Processing 116/381: Charles Gant, MD
+Processing 117/381: Mark R. Geier, MD, PhD
+Processing 118/381: Michael Gerber, MD
+Processing 119/381: Isabell K. Gervais
+Processing 120/381: Bryan Gescuk, MD
+Processing 121/381: Belle Gibson
+Processing 122/381: Simone Gold, MD, JD
+Processing 123/381: Patrick A. Golden, MD
+Processing 124/381: James S. Gordon, MD
+Processing 125/381: Jay Gordon, MD
+Error fetching http://scienceblogs.com/insolence/2009/02/dr_jay_gordon_get_away_from_my_alma_mate.php#comment-1365857: Request failed with status code 404
+Processing 126/381: David L. Gordon, MD
+Error fetching https://www.hhs.gov/dab/decisions/cr-327.txt: Request failed with status code 403
+Processing 127/381: Jay Gordon, MD (Santa Monica, California)
+Processing 128/381: Richard Gorringe, MD
+Processing 129/381: Joe Graedon, Terry Graedon
+Processing 130/381: Doug Grant
+Processing 131/381: John Gray, PhD
+Error fetching http://ourworld.compuserve.com/homepages/women_rebuttal_from_uranus/welcome.htm: getaddrinfo ENOTFOUND ourworld.compuserve.com
+Processing 132/381: William E. Gray III, MD**
+Processing 133/381: Michael E. Greer, MD
+Processing 134/381: Alex Guerrero
+Processing 135/381: Stephen R. Gundry, MD
+Processing 136/381: Louise Habakus
+Error fetching http://content.healthaffairs.org/content/30/6/1208.full: write EPROTO 90290000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1605:SSL alert number 40
+
+Processing 137/381: Boyd E. Haley, PhD
+Processing 138/381: Prudence Hall, MD
+Processing 139/381: Ronald L. Halstead, DC
+Processing 140/381: William M. Hammesfahr,
+Processing 141/381: MD
+Processing 142/381: J.B. Handley
+Processing 143/381: Richard T. Hansen, DMD
+Processing 144/381: Vani Hari (the “Food Babe”)
+Processing 145/381: Steven R. Harris, MD
+Processing 146/381: David Heber, MD, PhD
+Processing 147/381: Roy G. Heilbron, MD
+Processing 148/381: Bruce E. Hedendal, DC, PhD
+Processing 149/381: Henry Heimlich, MD
+Processing 150/381: Joe Hickey, MD
+Processing 151/381: Benny Hinn
+Processing 152/381: Marty Hinz, MD
+Processing 153/381: Carole Hoffman
+Processing 154/381: Jay M. Holder, DC
+Processing 155/381: William Holder, MD
+Processing 156/381: Patrick Holford
+Processing 157/381: Dennis Hooper, MD, PhD
+Processing 158/381: Len Horowitz, DMD, MPH
+Processing 159/381: Steven Hotze, MD
+Processing 160/381: Arianna Huffington
+Processing 161/381: Jim Humble
+Processing 162/381: John Humiston, MD
+Processing 163/381: Russell W. Hunt, MD
+Processing 164/381: Jeremiah Hunter (aka Jeffrey Dummett
+Processing 165/381: Mark Hyman, MD
+Processing 166/381: Louis Ignarro, PhD
+Processing 167/381: Michael Imani, PhD
+Processing 168/381: Jacques Imbeau, DMD
+Processing 169/381: Stella Immanuel, MD
+Processing 170/381: Charles K. Inlander
+Processing 171/381: Klee Irwin
+Processing 172/381: Joseph Jemsek, MD
+Processing 173/381: Sayer Ji
+Processing 174/381: John of God
+Processing 175/381: Andrew P. Jones, MD
+Processing 176/381: Bennie S. Johnson, DO
+Processing 177/381: Brian Johnson (“The Liver King”)
+Processing 178/381: James E. Johnson, MD
+Processing 179/381: Jesse Jutkowitz, DC
+Processing 180/381: Eleazer M. Kadile, MD
+Processing 181/381: Daniel Kamen, DC
+Processing 182/381: Ted Kaptchuk, OMD
+Processing 183/381: David Katz, MD
+Processing 184/381: Jimmy Keller
+Processing 185/381: Robert Kennedy, Jr
+Error fetching http://www.nytimes.com/2015/07/05/opinion/sunday/frank-bruni-california-camelot-and-vaccines.html?_r=1: Request failed with status code 403
+Processing 186/381: Roy E. Kerry, MD
+Processing 187/381: David Kirby
+Error fetching http://scienceblogs.com/insolence/2008/01/david_kirby_when_youre_in_a_hole_over_va.php: Request failed with status code 404
+Processing 188/381: Dietrich Klinghardt, MD
+Processing 189/381: Jay Kordich
+Processing 190/381: Tedd Koren, DC
+Processing 191/381: Brent Korn, DO
+Processing 192/381: Dean Kraft
+Error fetching http://informahealthcare.com/doi/pdf/10.3109/17482968.2011.609309: Request failed with status code 403
+Processing 193/381: Nelson Kraucak, MD
+Processing 194/381: Arthur C. Krigsman, MD
+Processing 195/381: Josef Krop, MD
+Processing 196/381: Jacob W. Kulp, DC
+Processing 197/381: Robert Kulacz, DDS
+Processing 198/381: Andrew J. Lane
+Processing 199/381: I. William Lane, PhD
+Processing 200/381: John A. Launius, MD
+Processing 201/381: Sarah Laurie, BMBS
+Processing 202/381: Charles E. Law, Jr., MD
+Processing 203/381: Ronald Lawrence, MD, PhD
+Processing 204/381: Terry J. Lee, DDS
+Processing 205/381: John Luther Lentz, Jr., MD
+Processing 206/381: Ben Lynch, ND
+Processing 207/381: Anthony Lionetti, MD
+Processing 208/381: Robert L Lytle, DDS (Larry Lytle
+Processing 209/381: Loren Lockman
+Processing 210/381: Karl Loren (a/k/a Loren Karl Troescher)
+Processing 211/381: Dwight Lundell, MD
+Processing 212/381: James J. Mahoney, DO
+Processing 213/381: Rev. George Malkmus
+Processing 214/381: Robert W. Malone, MD
+Processing 215/381: Michael D. Margolis, DDS
+Processing 216/381: Richard Markoll, MD, PhD
+Processing 217/381: Richard A. Marschall, ND
+Processing 218/381: Gary Martin
+Processing 219/381: James J. Martin, DC
+Processing 220/381: artin, DC
+Processing 221/381: Robert C. Martin, DC
+Processing 222/381: Betty Mar
+Processing 223/381: tini (also known as Nancy Markle)
+Processing 224/381: James P. Matthews, MD
+Processing 225/381: Steven Mays, DO
+Processing 226/381: Donald D. McBride, Jr., ND
+Processing 227/381: Marijah McCain, ND, MD(AM), PhD
+Processing 228/381: Jennifer McCarthy
+Processing 229/381: John A McDougall, MD
+Processing 230/381: Gillian McKeith
+Processing 231/381: Joseph McWherter, MD
+Processing 232/381: John O. Meadors, DC
+Processing 233/381: Joseph Mercola, DO
+Processing 234/381: Dorothy Merritt
+Processing 235/381: Julian Metter, PhD
+Processing 236/381: Deborah A. Metzger, MD
+Processing 237/381: Diane Meyer, DDS
+Processing 238/381: Andrew McNaughton
+Processing 239/381: Judy Mikovits, PhD
+Processing 240/381: Lionel Milgrom
+Processing 241/381: Earl Mindell, RPh
+Processing 242/381: David Ira Minkoff, MD
+Processing 243/381: Sandi Mitchell, PhD
+Processing 244/381: Jean Monro, MB BS, MRCS, LRCP, FAAEM, DIBEM, MACOEM
+Processing 245/381: Joseph R. Montante, MD
+Processing 246/381: Ralph W. Moss, PhD
+Processing 247/381: Jonathan B. Murphy, MD
+Processing 248/381: Marty Murray
+Processing 249/381: Elon Musk
+Processing 250/381: William K. Nabors, DDS
+Processing 251/381: Gaston Naessons
+Processing 252/381: Jarir Nakouzi, MD
+Processing 253/381: Devi S. Nambudripad, DC, LAc, RN, PhD
+Processing 254/381: Joseph Natole, Jr., MD
+Processing 255/381: Daniel Neides, MD
+Processing 256/381: Bradley Nelson, DC
+Processing 257/381: William C. Nelson, PhD, MD, NMD, ScD, ND
+Processing 258/381: Jillian Newlands
+Processing 259/381: Christiane Northrup, MD
+Processing 260/381: Gary Null, PhD
+Processing 261/381: Brian E.P.B. O’Connell
+Processing 262/381: Joseph Chikelue Obi
+Processing 263/381: Kathy Oddenino, BS, RN
+Processing 264/381: Alex Orbito
+Error fetching http://www.rickross.com/reference/general/general475.html: Request failed with status code 522
+Processing 265/381: Gary Ordog, MD
+Processing 266/381: Ina June Organ
+Processing 267/381: Memhet Oz, MD
+Processing 268/381: Gary Pace, PhD
+Processing 269/381: Gwyneth Paltrow
+Processing 270/381: Alireza Panahpour, DDS
+Processing 271/381: Durk Pearson
+Processing 272/381: David Perlmutter, MD
+Processing 273/381: Nicholas V. Perricone, MD
+Processing 274/381: Laurence Perry, NMD, ND
+Processing 275/381: Brian S. Peskin
+Processing 276/381: Douglas J. Phillips, DDS
+Processing 277/381: Michael Pinkus, DC
+Processing 278/381: John C. Pittman, MD
+Processing 279/381: Charles Pixley
+Processing 280/381: Micheal E. Platt, MD
+Processing 281/381: David Eugene Pontius
+Processing 282/381: Helmut Prahl, PhD
+Processing 283/381: Dr. Ian Geoffrey Raddatz
+Processing 284/381: William C. Rader, MD
+Processing 285/381: Mathias Rath, MD
+Processing 286/381: Seshagiri Rao, MD
+Processing 287/381: Bernard Raxlen, MD
+Processing 288/381: Shelvie Rettmann
+Processing 289/381: Joseph E. Rich, MD
+Processing 290/381: Insabel de los Rios
+Error fetching https://cspinet.org/tip/find-flaw: Request failed with status code 404
+Processing 291/381: Anthony Robbins
+Processing 292/381: Joel Robbins, DC, ND, MD
+Processing 293/381: Carol Roberts, MD
+Processing 294/381: Anthony G. Roeder, DDS
+Processing 295/381: Robert J. Rogers, MD
+Processing 296/381: Sherry A. Rogers, MD
+Processing 297/381: Robert Jay Rowen, MD
+Processing 298/381: David W. Rowland
+Processing 299/381: Michel Y. Roy, DC
+Processing 300/381: Bozena Rozum-Slota, MD
+Processing 301/381: Jordan S. Rubin, NMD, PhD, CNC
+Error fetching https://www.quackwatch.org/11Ind/rubin.html: read ECONNRESET
+Processing 302/381: Geronimo Rubio, MD
+Processing 303/381: Carol Ann Ryser, MD
+Processing 304/381: Raymond J. Salani, PhD
+Processing 305/381: Humbart Santillo, ND
+Processing 306/381: Andrew Saul, PhD
+Processing 307/381: Thomas S. Sawyer
+Processing 308/381: Amy B. Scher
+Processing 309/381: Alan Schwartz, MD
+Processing 310/381: Rick Scott
+Error fetching http://www.insurancereformwatch.org/opposition/cpr.shtml: Request failed with status code 404
+Processing 311/381: Robert W. Sears, MD
+Processing 312/381: Darryl See, MD
+Processing 313/381: Sergio Stagnaro, MD
+Processing 314/381: Wesley Shankland, DDS
+Processing 315/381: Todata R. Shanthaveerappa, M.D. (a/k/a T.R. Shantha, M.D.
+Processing 316/381: C. Norman Shealey, MD
+Processing 317/381: James Shen, DDS
+Processing 318/381: Richie Shoemaker, MD
+Processing 319/381: James M. Shortt, MD
+Processing 320/381: Robann Sica, MD
+Processing 321/381: Stephen L. Smith, MD
+Processing 322/381: Suzanne Somers
+Error fetching http://www.thedailybeast.com/blogs-and-stories/2009-11-09/does-suzanne-somers-cause-cancer/: Request failed with status code 404
+Processing 323/381: Marvin Sponaugle, MD
+Processing 324/381: William M. Spurlock, MD
+Processing 325/381: Leanna J. Standish, ND, PhD, Dipl Ac
+Processing 326/381: John E. Stauch, PhD
+Processing 327/381: David A. Steenblock, MD
+Processing 328/381: Jesse A. Stoff, MD
+Processing 329/381: Philip Straw, DC
+Processing 330/381: Arnold J. Susser, RPh, PhD
+Processing 331/381: Murray Susser, MD
+Processing 332/381: Stuart M. Suster, MD
+Processing 333/381: Arnold C. Takemoto
+Error fetching https://www.sec.gov/litigation/admin/34-43246.htm: Request failed with status code 403
+Processing 334/381: Shawn M. Talbot, PhD
+Processing 335/381: Katrina C. Tang, HMD
+Processing 336/381: Jerald Tennant, MD
+Processing 337/381: Michael Teplitsky, MD (aka Michael Tepliski, MD)
+Processing 338/381: Ron Tepper
+Processing 339/381: Thomas Ronald Theodore
+Processing 340/381: Alexander W. Thermos, DO
+Processing 341/381: Stephen R. Thomas
+Processing 342/381: Steven Tondre
+Processing 343/381: John R. Toth, MD
+Processing 344/381: Timothy S. Trader, NMD, PhD, DD
+Processing 345/381: John Parks Trowbridge, MD
+Processing 346/381: Kevin Trudeau
+Processing 347/381: C. Orian Truss, MD
+Processing 348/381: Dana Ullman, MPH*
+Processing 349/381: Anjum Usman, MD
+Processing 350/381: Michael Uzick, ND
+Processing 351/381: Jason Vale
+Processing 352/381: Richard Vander Heyden, DDS
+Processing 353/381: Arthur Vanmoor
+Processing 354/381: Herald E. Vermette, DDS
+Processing 355/381: Colleen Victory, MD (a/k/a/Kelly Victory, MD
+Processing 356/381: Jonathan Wainwright
+Error fetching http://www.mg.co.za/mg/news/2000jan2/31jan-kenya_aids.html: Request failed with status code 404
+Processing 357/381: Andrew Wakefield
+Processing 358/381: Joel D. Wallach, DVM, ND
+Error fetching https://quackwatch.org/01QuackeryRelatedTopics/DSH/colloidalminerals.html: read ECONNRESET
+Processing 359/381: Chris Wark
+Processing 360/381: U.S. Rep. Diane Watson
+Processing 361/381: Bradford S. Weeks, MD
+Processing 362/381: Andrew Weil, MD
+Processing 363/381: Jordan Weiss, MD
+Processing 364/381: Kenneth J. Welker, MD
+Processing 365/381: Ronald Wempen, MD
+Processing 366/381: Scott Rulon Werner, MD
+Processing 367/381: Julian Whitaker, MD
+Error fetching http://www.acsh.org/publications/priorities/1104/jw.html: Request failed with status code 404
+Processing 368/381: Yolanda White, MD
+Processing 369/381: Robert B. Wickman, DO
+Processing 370/381: Frank D. Wiewel
+Processing 371/381: David Williams, DC
+Processing 372/381: E. Denis Wilson, MD
+Processing 373/381: Oprah Winfrey
+Processing 374/381: Juergen Winkler, MD
+Processing 375/381: Ray Wisniewski, DC
+Processing 376/381: Jonathan V. Wright, MD
+Processing 377/381: Paul Yanick, Jr., PhD, ND, CNC, CQM
+Processing 378/381: Amy Yasko, PhD, ND, NHD
+Processing 379/381: Robert O. Young, MS, DSc, PhD, ND
+Processing 380/381: Chester Yozwick
+Processing 381/381: Sam Zeller
