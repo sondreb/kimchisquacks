@@ -1,9 +1,15 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { writeFile } from 'fs/promises';
+import crypto from 'crypto';
 
 const url = 'https://quackwatch.org/11ind/';
 const baseUrl = new URL(url);
+
+// Helper function to generate a GUID
+const generateGuid = () => {
+  return crypto.randomUUID();
+};
 
 // Helper function to resolve relative URLs
 const resolveUrl = (relative) => {
@@ -38,6 +44,7 @@ try {
 
     if (isLivingSection && tag === 'a') {
       livingDoctors.push({
+        id: generateGuid(),
         name: text,
         link: resolveUrl($(element).attr('href'))
       });
