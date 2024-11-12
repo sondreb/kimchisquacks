@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('doctors-container');
-            data.forEach(doctor => {
+            data.forEach((doctor, index) => {
                 const doctorDiv = document.createElement('div');
                 const nameHeader = document.createElement('h2');
                 const cancerCountParagraph = document.createElement('p');
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const additionalDataDiv = document.createElement('div');
 
                 nameHeader.textContent = doctor.name;
-                cancerCountParagraph.textContent = `Cancer Count: ${doctor.cancerCount}`;
+                cancerCountParagraph.innerHTML = `Number: ${index + 1}<br>Cancer Count: ${doctor.cancerCount}`;
                 alternativeCountParagraph.textContent = `Alternative Count: ${doctor.alternativeCount}`;
                 malignancyCountParagraph.textContent = `Malignancy Count: ${doctor.malignancyCount}`;
                 neoplasmCountParagraph.textContent = `Neoplasm Count: ${doctor.neoplasmCount}`;
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Append the expandable data
                 if (doctor.data) {
                     const dataParagraph = document.createElement('p');
-                    dataParagraph.textContent = JSON.stringify(doctor.data, null, 2);
+                    dataParagraph.textContent = doctor.data;
                     additionalDataDiv.appendChild(dataParagraph);
                 }
 
