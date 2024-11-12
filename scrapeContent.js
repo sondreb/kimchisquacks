@@ -32,6 +32,32 @@ const MODELS = {
 //   'gpt-3.5-turbo-instruct-0914'
 // ]
 
+// Available models: [
+//   'gpt-4o-2024-08-06',
+//   'gpt-4o',
+//   'gpt-3.5-turbo-instruct',
+//   'gpt-4o-mini-2024-07-18',
+//   'gpt-4o-mini',
+//   'gpt-3.5-turbo',
+//   'gpt-3.5-turbo-0125',
+//   'gpt-3.5-turbo-16k',
+//   'chatgpt-4o-latest',
+//   'gpt-4-turbo-2024-04-09',
+//   'gpt-4',
+//   'gpt-4o-realtime-preview-2024-10-01',
+//   'gpt-4o-realtime-preview',
+//   'gpt-4-turbo-preview',
+//   'gpt-4-1106-preview',
+//   'gpt-4-turbo',
+//   'gpt-3.5-turbo-1106',
+//   'gpt-4o-audio-preview',
+//   'gpt-4o-audio-preview-2024-10-01',
+//   'gpt-4-0613',
+//   'gpt-4-0125-preview',
+//   'gpt-3.5-turbo-instruct-0914',
+//   'gpt-4o-2024-05-13'
+// ]
+
 // Select model to use
 const SELECTED_MODEL = MODELS.GPT35;
 
