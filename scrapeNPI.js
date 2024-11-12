@@ -41,7 +41,7 @@ async function main() {
       await mkdir(OUTPUT_DIR);
     }
 
-    const data = JSON.parse(await readFile("doctors-names.json", "utf8"));
+    const data = JSON.parse(await readFile("doctors.json", "utf8"));
 
     for (let i = 0; i < data.length; i++) {
       const doctor = data[i];
