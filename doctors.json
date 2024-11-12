@@ -1,442 +1,618 @@
 [
   {
     "id": "bbd4b1fc-8aac-410a-8fae-4d8c5a094f7e",
-    "name": "Ilona Abraham, MD",
+    "name": "Ilona Abraham, MD",
+    "firstname": "Ilona",
+    "lastname": "Abraham",
     "link": "http://www.casewatch.net/board/med/abraham/complaint.shtml"
   },
   {
     "id": "498902b6-1b0b-41b8-a4d6-47df1df32828",
     "name": "Aundrea J. Adams, RN",
+    "firstname": "Aundrea",
+    "lastname": "Adams",
     "link": "http://www.casewatch.net/fdawarning/prod/2011/adams.shtml"
   },
   {
     "id": "3600d256-dc29-4726-91b5-67020d04c54d",
     "name": "Charles C. Adams, MD",
+    "firstname": "Charles",
+    "lastname": "Adams",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/civil/adams/complaint_2018.pdf"
   },
   {
     "id": "5844d12c-6fad-426c-8d78-ecbb4435cac9",
     "name": "Mike Adams",
+    "firstname": "Mike",
+    "lastname": "Adams",
     "link": "https://mcgill.ca/oss/article/quackery/mike-adams-building-alternate-reality-online"
   },
   {
     "id": "9d29b111-15c8-483d-ba0c-ed657b79d4e5",
     "name": "Farrah Agustin-Bunch, MD",
+    "firstname": "Farrah",
+    "lastname": "Agustin-Bunch",
     "link": "https://www.quackwatch.org/11Ind/farrah/overview.html"
   },
   {
     "id": "f56862ee-dda8-4881-aeda-eb5a4706bc3e",
     "name": "George W. Allibone, MD",
+    "firstname": "George",
+    "lastname": "Allibone",
     "link": "http://www.casewatch.net/board/med/allibone/complaint_2017.shtml"
   },
   {
     "id": "6eaffa88-912d-4ee3-9738-ddc956283f3c",
     "name": "Charles E. Anderson, MD",
+    "firstname": "Charles",
+    "lastname": "Anderson",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/anderson/stipulation_2009.pdf"
   },
   {
     "id": "75062c2c-5c08-40c4-ba91-5d1c80813208",
-    "name": "Geoffrey S. Ames, MD",
+    "name": "Geoffrey S. Ames, MD",
+    "firstname": "Geoffrey",
+    "lastname": "Ames",
     "link": "http://www.casewatch.net/board/med/ames/order.shtml"
   },
   {
     "id": "45ee3a96-a4e7-4071-ac3c-bc29bb167361",
     "name": "David Amrein",
+    "firstname": "David",
+    "lastname": "Amrein",
     "link": "https://quackwatch.org/02ConsumerProtection/FTCActions/clarkassn.html"
   },
   {
     "id": "9e2e2cfa-cfcb-4ceb-9f82-ef6a77224358",
     "name": "Rolando Arafiles, Jr., MD",
+    "firstname": "Rolando",
+    "lastname": "Arafiles",
     "link": "http://www.quackwatch.org/14Legal/nurses.html"
   },
   {
     "id": "f02a1b59-0cd0-4ba8-bbe7-eac01998f777",
     "name": "Scott Atlas, MD",
+    "firstname": "Scott",
+    "lastname": "Atlas",
     "link": "https://www.nytimes.com/2020/09/02/us/politics/trump-scott-atlas-coronavirus.html"
   },
   {
     "id": "da1eda54-794a-4f2a-a4e3-e797f92de953",
-    "name": "Stephen B. Ayre, MD",
+    "name": "Stephen B. Ayre, MD",
+    "firstname": "Stephen",
+    "lastname": "Ayre",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/ipt.html"
   },
   {
     "id": "e5506c83-8e8f-4c85-ad50-3132b3b9bd8a",
-    "name": "Nicholas Bachynsky, MD",
+    "name": "Nicholas Bachynsky, MD",
+    "firstname": "Nicholas",
+    "lastname": "Bachynsky",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/icht.html"
   },
   {
     "id": "269a0e83-b611-4feb-ac6d-3f1d4a796160",
     "name": "Jeff G. Baker, ND",
+    "firstname": "Jeff",
+    "lastname": "Baker",
     "link": "http://www.autism-watch.org/reports/casd/overview.shtml"
   },
   {
     "id": "fb83d728-0176-486a-b55b-1fa276e251de",
-    "name": "James F. Balch, MD",
+    "name": "James F. Balch, MD",
+    "firstname": "James",
+    "lastname": "Balch",
     "link": "https://quackwatch.org/02ConsumerProtection/FDAActions/global.html#naturalhealing"
   },
   {
     "id": "1d725f0d-52d1-41f0-9001-3bd0a99903c0",
     "name": "Pastor Robert Baldwin",
+    "firstname": "Robert",
+    "lastname": "Baldwin",
     "link": "https://www.theguardian.com/world/2019/may/18/bleach-miracle-cure-uganda-us-pastor-robert-baldwin-sam-little"
   },
   {
     "id": "fd4d10f1-089f-4c15-8b2e-a53bee4df2d0",
     "name": "Neal Barnard, MD",
+    "firstname": "Neal",
+    "lastname": "Barnard",
     "link": "http://www.ncahf.org/articles/o-r/pcrm.html"
   },
   {
     "id": "2fd8fd3f-6406-44eb-8681-37c219387a03",
     "name": "Robert Barefoot",
+    "firstname": "Robert",
+    "lastname": "Barefoot",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/DSH/coral.html"
   },
   {
     "id": "24b47f81-da1b-4170-ace4-65e2f205d674",
     "name": "Donald Barrett",
+    "firstname": "Donald",
+    "lastname": "Barrett",
     "link": "http://www.casewatch.net/ftc/news/2004/dmc06.shtml"
   },
   {
     "id": "bc1ea14d-8429-4d9d-b968-9756da6e4b10",
     "name": "Jon Barron",
+    "firstname": "Jon",
+    "lastname": "Barron",
     "link": "http://www.skepdic.com/barron.html"
   },
   {
     "id": "e6af063a-6866-41ca-a387-75f531253283",
     "name": "Elizabetth Bates, MD",
+    "firstname": "Elizabetth",
+    "lastname": "Bates",
     "link": "http://www.casewatch.net/board/med/bates/complaint_2017.shtml"
   },
   {
     "id": "3cfc9707-9b8c-4f4c-b2fc-89c6196e2ac3",
     "name": "Noel Batten",
+    "firstname": "Noel",
+    "lastname": "Batten",
     "link": "https://quackfiles.blogspot.com/2005/03/noel-batten-exposed.html"
   },
   {
     "id": "106f9c11-7424-40d6-810a-4f56c248843e",
     "name": "Michael A. Baylin, DDS",
+    "firstname": "Michael",
+    "lastname": "Baylin",
     "link": "http://www.casewatch.net/board/dent/baylin/order_2007.shtml"
   },
   {
     "id": "20032c67-8f0f-4e07-b28f-3e9a0443dea0",
-    "name": "Paul V. Beals, MD",
+    "name": "Paul V. Beals, MD",
+    "firstname": "Paul",
+    "lastname": "Beals",
     "link": "http://www.casewatch.net/board/med/beals/2004_order.shtml"
   },
   {
     "id": "65029e61-047a-4353-960a-9fa160f2e68f",
-    "name": "Joel Berger, DDS",
+    "name": "Joel Berger, DDS",
+    "firstname": "Joel",
+    "lastname": "Berger",
     "link": "http://www.ncahf.org/digest/01-34.html#Berger"
   },
   {
     "id": "539d30db-fdea-47e9-8a88-e43ed9acabad",
     "name": "Rhett Bergeron, MD",
+    "firstname": "Rhett",
+    "lastname": "Bergeron",
     "link": "http://www.casewatch.net/board/med/bergeron/order.shtml"
   },
   {
     "id": "dd54c048-f821-47c7-9dd5-aa79228a94ec",
     "name": "Brian Berman, MD",
+    "firstname": "Brian",
+    "lastname": "Berman",
     "link": "https://www.quackwatch.org/11Ind/IOM/berman.html"
   },
   {
     "id": "8a4497d5-79de-4395-a8a6-fdd4cbf852be",
-    "name": "Haim Bicher, MD",
+    "name": "Haim Bicher, MD",
+    "firstname": "Haim",
+    "lastname": "Bicher",
     "link": "http://www.casewatch.net/board/med/bicher/complaint.shtml"
   },
   {
     "id": "0c361903-e5ed-476e-be8b-866ebb4055aa",
     "name": "Paula Bickle",
+    "firstname": "Paula",
+    "lastname": "Bickle",
     "link": "https://www.quackwatch.org/11Ind/bickle.html"
   },
   {
     "id": "a8940d4c-9370-4bd6-b6e4-4d356799f486",
     "name": "Jeffrey Bland, PhD",
+    "firstname": "Jeffrey",
+    "lastname": "Bland",
     "link": "https://quackwatch.org/04ConsumerEducation/bland.html"
   },
   {
     "id": "ec219a2f-0d97-42ae-88c5-55c3b375a702",
     "name": "Russell Blaylock, MD",
+    "firstname": "Russell",
+    "lastname": "Blaylock",
     "link": "http://www.skepdic.com/blaylock.html"
   },
   {
     "id": "ab23be3a-5413-4b1d-ad89-eaebf2e159c6",
     "name": "Kenneth R. Blum, MD",
+    "firstname": "Kenneth",
+    "lastname": "Blum",
     "link": "https://www.quackwatch.org/01QuackeryRelatedTopics/Tests/genomics.html#RDS"
   },
   {
     "id": "2aa39d36-aa6a-4e21-ac85-27c0bfb44f78",
     "name": "Tim Bolen / Jan Bolen",
+    "firstname": "Tim",
+    "lastname": "Bolen",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/clark.html#bolen"
   },
   {
     "id": "ec2f7d88-1e6f-4406-b5c4-026e1ae4b9ee",
     "name": "Ty Bollinger",
+    "firstname": "Ty",
+    "lastname": "Bollinger",
     "link": "https://respectfulinsolence.com/2017/02/06/the-scam-of-detox-ritual-purification-by-another-name/"
   },
   {
     "id": "77102d61-6b62-45e7-b0b5-f985de780107",
-    "name": "Dean Bonlie, DDS",
+    "name": "Dean Bonlie, DDS",
+    "firstname": "Dean",
+    "lastname": "Bonlie",
     "link": "http://www.devicewatch.org/reports/mme.shtml#bonlie"
   },
   {
     "id": "dcc9a4a2-edcc-4174-867d-358d770af370",
     "name": "Victor Bouquette, MD",
+    "firstname": "Victor",
+    "lastname": "Bouquette",
     "link": "http://www.casewatch.net/board/med/bouquette/order.shtml"
   },
   {
     "id": "88495518-62e9-4201-8515-cc2a625d8c2b",
     "name": "Carole R. Bradford",
+    "firstname": "Carole",
+    "lastname": "Bradford",
     "link": "https://quackwatch.org/04ConsumerEducation/Nonrecorg/cfcm.html"
   },
   {
     "id": "8ac4ad4a-805f-47a9-919c-41dd44e8e9e8",
     "name": "Trudy Bricker",
+    "firstname": "Trudy",
+    "lastname": "Bricker",
     "link": "https://quackwatch.org/ncahf/nl/1990-2/3-4/"
   },
   {
     "id": "6504a2e3-2529-4201-8509-4012afdd8880",
-    "name": "J.E. Bouquot, DDS, MSD",
+    "name": "J.E. Bouquot, DDS, MSD",
+    "firstname": "J.E.",
+    "lastname": "Bouquot",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/cavitation.html"
   },
   {
     "id": "8514645c-a861-46a3-90bb-76b50d189e3f",
     "name": "Donald Brandt* / Sharon Brandt",
+    "firstname": "Donald",
+    "lastname": "Brandt",
     "link": "http://www.casewatch.net/doj/brandt/indictment.shtml"
   },
   {
     "id": "ee4747a6-959e-467d-8e9c-3bc925819ac0",
-    "name": "Eric T.  Braverman, MD",
+    "name": "Eric T. Braverman, MD",
+    "firstname": "Eric",
+    "lastname": "Braverman",
     "link": "https://www.quackwatch.org/11Ind/braverman/overview.html"
   },
   {
     "id": "16760c10-abec-410c-a95c-5f1916cf6955",
     "name": "Peter R. Breggin, MD",
+    "firstname": "Peter",
+    "lastname": "Breggin",
     "link": "https://quackwatch.org/index.html"
   },
   {
     "id": "5cb099cf-33bd-43a9-9934-f6100eb8ba84",
     "name": "Mark Breiner, DDS",
+    "firstname": "Mark",
+    "lastname": "Breiner",
     "link": "http://www.casewatch.net/board/dent/breiner/consent.shtml"
   },
   {
     "id": "b5089e53-b0ec-4cee-a87f-8c69d76505e3",
     "name": "Les Breitman, MD",
+    "firstname": "Les",
+    "lastname": "Breitman",
     "link": "https://quackwatch.org/cases/board/med/breitman/accusation.shtml"
   },
   {
     "id": "8f291b21-0020-418e-b997-4ab06946acd1",
-    "name": "Joyce E. Brown, RN",
+    "name": "Joyce E. Brown, RN",
+    "firstname": "Joyce",
+    "lastname": "Brown",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/micom.html#brown"
   },
   {
     "id": "b119ffd1-423b-4b4f-87de-ba1e40ca1fa0",
     "name": "Jennie Burke",
+    "firstname": "Jennie",
+    "lastname": "Burke",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Tests/crt.html"
   },
   {
     "id": "19bce187-a055-4174-8723-c5939052d784",
     "name": "Robert A. Burkich, MD",
+    "firstname": "Robert",
+    "lastname": "Burkich",
     "link": "http://www.chelationwatch.org/reg/burkich_2019.shtml"
   },
   {
     "id": "25030d8b-c4c1-4857-8988-4c27c1ea0dc1",
     "name": "U.S. Congressman Dan Burton",
+    "firstname": "Dan",
+    "lastname": "Burton",
     "link": "http://www.forbes.com/sites/stevensalzberg/2012/12/03/congress-holds-an-anti-vaccination-hearing/"
   },
   {
     "id": "63100e18-f5d7-4a6a-8b4d-a904f4128981",
     "name": "Stanislaw Burzynski, MD",
+    "firstname": "Stanislaw",
+    "lastname": "Burzynski",
     "link": "http://www.casewatch.net/board/med/burzynski/complaint_2013.shtml"
   },
   {
     "id": "ac93219d-5d8b-4324-a4cd-2527feab5368",
     "name": "Craig D. Butler, MD",
+    "firstname": "Craig",
+    "lastname": "Butler",
     "link": "https://www.quackwatch.org/11Ind/pmg.html"
   },
   {
     "id": "6509948f-9166-4520-925b-2a8b9cfca37c",
     "name": "Dolores Cahill, PhD",
+    "firstname": "Dolores",
+    "lastname": "Cahill",
     "link": "https://www.mcgill.ca/oss/article/covid-19-health/strange-case-dr-cahill-and-ms-hyde?utm_source=OSS+Newsletter&utm_campaign=0a91537bd6-EMAIL_CAMPAIGN_5_3_2019_14_30_COPY_01&utm_medium=email&utm_term=0_995459bc2b-0a91537bd6-174790824"
   },
   {
     "id": "c04c4e96-4a48-4fd5-9c62-99430207c918",
-    "name": "Andrew W. Campbell, MD",
+    "name": "Andrew W. Campbell, MD",
+    "firstname": "Andrew",
+    "lastname": "Campbell",
     "link": "http://www.casewatch.net/board/med/campbell/complaint.shtml"
   },
   {
     "id": "c73801bc-69c6-49d9-8c5a-166eea83b2e5",
     "name": "Jesus Caquias, MD",
+    "firstname": "Jesus",
+    "lastname": "Caquias",
     "link": "http://www.autism-watch.org/reports/casd/overview.shtml"
   },
   {
     "id": "4d2ce85d-4878-4346-bc35-fedaf2fc15de",
     "name": "Robert G. Carlson, MD",
+    "firstname": "Robert",
+    "lastname": "Carlson",
     "link": "http://www.heraldtribune.com/article/20080405/BUSINESS/804050689"
   },
   {
     "id": "dbd6c6b4-a03a-40cb-b9df-4a1c0346d028",
     "name": "Rebecca Lee Carley, MD",
+    "firstname": "Rebecca",
+    "lastname": "Carley",
     "link": "https://www.quackwatch.org/11Ind/carley1.html"
   },
   {
     "id": "37b3fbf5-127e-455d-90f4-afab07f64476",
     "name": "Richard A. Carter, DO",
+    "firstname": "Richard",
+    "lastname": "Carter",
     "link": "http://www.infomercialwatch.org/reports/amazerx.shtml"
   },
   {
     "id": "0361e417-46b3-4f02-b19a-b98bbc4460f7",
     "name": "Sam Chachoua",
+    "firstname": "Sam",
+    "lastname": "Chachoua",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/chachoua.html"
   },
   {
     "id": "c81716d5-87ca-4a38-b210-211e1657e799",
-    "name": "Stephen A. Cherniske",
+    "name": "Stephen A. Cherniske",
+    "firstname": "Stephen",
+    "lastname": "Cherniske",
     "link": "http://www.mlmwatch.org/06FTC/Oasis/oasisftc1.html"
   },
   {
     "id": "c4c9d8b9-9d6d-4a42-8448-cb4ec84509e1",
-    "name": "Edmund Chein, MD",
+    "name": "Edmund Chein, MD",
+    "firstname": "Edmund",
+    "lastname": "Chein",
     "link": "https://www.quackwatch.org/11Ind/chein.html"
   },
   {
     "id": "99bb8adc-e18e-416e-878d-f754ef56a3de",
     "name": "Henry E. Childers IV, MD",
+    "firstname": "Henry",
+    "lastname": "Childers",
     "link": "https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/33/2023/01/12153844/order_2022.pdf"
   },
   {
     "id": "b2913d46-a06d-4ba3-865e-3d0c4b9df81b",
     "name": "Deepak Chopra, MD",
+    "firstname": "Deepak",
+    "lastname": "Chopra",
     "link": "https://quackwatch.org/04ConsumerEducation/chopra.html"
   },
   {
     "id": "ad31bcc8-b9de-4643-9fea-e3d1722cdb07",
     "name": "Paul J. Cimoch, MD*",
+    "firstname": "Paul",
+    "lastname": "Cimoch",
     "link": "http://www.casewatch.net/board/med/cimoch/accusation.shtml"
   },
   {
     "id": "4943ea38-db4d-4f9b-af23-d8a60daa9f66",
-    "name": "Daniel G. Clark, MD",
+    "name": "Daniel G. Clark, MD",
+    "firstname": "Daniel",
+    "lastname": "Clark",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/DSH/seasilver.html#clark"
   },
   {
     "id": "24b62184-b4c0-441a-b42a-1ead27fe36ea",
     "name": "Leonard Coldwell, ND, PhD",
+    "firstname": "Leonard",
+    "lastname": "Coldwell",
     "link": "http://rationalwiki.org/wiki/Leonard_Coldwell"
   },
   {
     "id": "2582f57d-519c-43a6-9a52-8ec7abbdb51e",
     "name": "Florence Comite, MD",
+    "firstname": "Florence",
+    "lastname": "Comite",
     "link": "https://www.quackwatch.org/11Ind/IOM/comite.html"
   },
   {
     "id": "c0f3ffa9-703a-47e7-8bc5-ddad39f9a952",
     "name": "Leigh Erin Connealy, MD",
+    "firstname": "Leigh",
+    "lastname": "Connealy",
     "link": "http://www.casewatch.net/board/med/connealy/accusation.shtml"
   },
   {
     "id": "d5f7a87b-654b-4bf5-9282-7ce654ee6c16",
     "name": "Paul Connett, PhD",
+    "firstname": "Paul",
+    "lastname": "Connett",
     "link": "http://www.odha.org/new/documents/FluorLegislatorsNRC.pdf"
   },
   {
     "id": "dff7e15e-0d6c-4a1c-8b0d-b387a69b08c4",
     "name": "Arthur Copes, PhD",
+    "firstname": "Arthur",
+    "lastname": "Copes",
     "link": "https://www.quackwatch.org/11Ind/copes.html"
   },
   {
     "id": "031434f8-3e6d-4c37-8b9b-f8ffdc334879",
     "name": "Lee Cowden, MD",
+    "firstname": "Lee",
+    "lastname": "Cowden",
     "link": "http://www.casewatch.net/board/med/cowden/2002order.shtml"
   },
   {
     "id": "9705ee3c-14a4-462e-bc65-f84f6a9f1c6d",
-    "name": "John E. Curran, MD, ND, PhD",
+    "name": "John E. Curran, MD, ND, PhD",
+    "firstname": "John",
+    "lastname": "Curran",
     "link": "http://www.naturowatch.org/legal/curran3.shtml"
   },
   {
     "id": "f41cac4f-d495-4fcb-9aca-768f10809f8f",
-    "name": "Robert M. Currier, DO",
+    "name": "Robert M. Currier, DO",
+    "firstname": "Robert",
+    "lastname": "Currier",
     "link": "https://www.ftc.gov/opa/2002/11/currier.htm"
   },
   {
     "id": "8a5828c5-1e35-4437-a6b8-d28dac9e9bd2",
     "name": "Kazuko Curtin",
+    "firstname": "Kazuko",
+    "lastname": "Curtin",
     "link": "http://www.autism-watch.org/reports/casd/overview.shtml"
   },
   {
     "id": "b61035e1-e293-4cb8-b573-c54eb7a9003c",
     "name": "Greg Cynaumon",
+    "firstname": "Greg",
+    "lastname": "Cynaumon",
     "link": "http://www.edresearch.com/"
   },
   {
     "id": "1ea2b8ef-f488-400e-b032-19fbf778688f",
     "name": "Peter J. D’Adamo, ND",
+    "firstname": "Peter",
+    "lastname": "D’Adamo",
     "link": "http://skepdic.com/bloodtypediet.html"
   },
   {
     "id": "e8c30949-0ae3-46a9-bd9a-ba0dcc2b01ca",
     "name": "Dragon Dabik aka D.D. David",
+    "firstname": "Dragon",
+    "lastname": "Dabik",
     "link": "http://www.skepdic.com/dragandabic.html"
   },
   {
     "id": "e334d385-da2f-4337-88f7-102aa14a656a",
     "name": "Irving I. Dardik, MD",
+    "firstname": "Irving",
+    "lastname": "Dardik",
     "link": "https://www.quackwatch.org/11Ind/Dardik/index.html"
   },
   {
     "id": "9e69b7a6-84c1-4eec-a451-8c9cb2201616",
-    "name": "James Gary Davidson",
+    "name": "James Gary Davidson",
+    "firstname": "James",
+    "lastname": "Davidson",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/davidson.html"
   },
   {
     "id": "14b95c52-1933-401d-9a34-1b33c5541a92",
-    "name": "Richard Claire Davis, Jr, MD",
+    "name": "Richard Claire Davis, Jr, MD",
+    "firstname": "Richard",
+    "lastname": "Davis",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/eyequack.html#rheo"
   },
   {
     "id": "d34bbfba-b308-4644-9755-576a1601db8b",
     "name": "Phillip Day",
+    "firstname": "Phillip",
+    "lastname": "Day",
     "link": "http://www.skepdic.com/phillipday.html"
   },
   {
     "id": "f1dd5b5c-59bf-4654-9e1b-ced85273a912",
     "name": "Carolyn Dean, MD",
+    "firstname": "Carolyn",
+    "lastname": "Dean",
     "link": "http://www.casewatch.net/foreign/dean/dean.shtml"
   },
   {
     "id": "a4669d32-3aae-4a1e-bd2e-d497451d0be9",
     "name": "Ward Dean, MD",
+    "firstname": "Ward",
+    "lastname": "Dean",
     "link": "https://www.quackwatch.org/11Ind/dean.html"
   },
   {
     "id": "932ad5b8-8830-4b68-a876-624a7505fbbc",
     "name": "Charlene DeMarco, DO",
+    "firstname": "Charlene",
+    "lastname": "DeMarco",
     "link": "http://www.casewatch.net/doj/demarco/indictment.shtml"
   },
   {
     "id": "1458cf28-1eba-4179-8689-6bc32c0f0119",
     "name": "Robert DeMaria, DC",
+    "firstname": "Robert",
+    "lastname": "DeMaria",
     "link": "http://mylespower.co.uk/2013/01/16/3818/"
   },
   {
     "id": "744aca5a-f3dd-4185-a3ed-f300a4dc915a",
     "name": "Errol Denton",
+    "firstname": "Errol",
+    "lastname": "Denton",
     "link": "https://rationalwiki.org/wiki/Errol_Denton"
   },
   {
     "id": "f8957b88-aa3a-4a01-aa0d-d0de17a262ac",
     "name": "Keith R. DeOreo, MD",
+    "firstname": "Keith",
+    "lastname": "DeOreo",
     "link": "http://www.casewatch.net/board/med/deorio/accusation_2016.shtml"
   },
   {
     "id": "12d1c833-1fa9-4994-9ba5-a66028bcc080",
     "name": "Pieter J. De Wet, MD",
+    "firstname": "Pieter",
+    "lastname": "De Wet",
     "link": "http://www.casewatch.net/board/med/de_wet/order_2015.shtml"
   },
   {
     "id": "715c1138-49df-4282-8532-ddcafc96c96e",
     "name": "Jeanne Drisko, MD",
+    "firstname": "Jeanne",
+    "lastname": "Drisko",
     "link": "https://www.quackwatch.org/11Ind/IOM/drisko.html"
   },
   {
     "id": "4f3b840c-1846-459b-a449-f8bbacfcc472",
     "name": "Harvey Diamond",
+    "firstname": "Harvey",
+    "lastname": "Diamond",
     "link": "https://www.quackwatch.org/11Ind/fitforlife.html"
   },
   {
@@ -447,256 +623,359 @@
   {
     "id": "ffb74ec3-88cc-4e60-948b-5f4b551c2abc",
     "name": "Marilyn Diamond",
+    "firstname": "Marilyn",
+    "lastname": "Diamond",
     "link": "https://www.quackwatch.org/11Ind/fitforlife.html"
   },
   {
     "id": "34acf23a-3bae-4770-a0e8-eb8e9f27fd8a",
     "name": "John A. Dicke, PhD, JD",
+    "firstname": "John",
+    "lastname": "Dicke",
     "link": "https://www.quackwatch.org/11Ind/dicke.html"
   },
   {
     "id": "42df5224-6c83-40b4-b7f9-e4a389587110",
-    "name": "John V. Dommisse, MD",
+    "name": "John V. Dommisse, MD",
+    "firstname": "John",
+    "lastname": "Dommisse",
     "link": "http://www.casewatch.net/board/med/dommisse.shtml"
   },
   {
     "id": "b9aa5375-e565-451e-9baf-f27436180fc7",
     "name": "Bruce R. Dooley, MD",
+    "firstname": "Bruce",
+    "lastname": "Dooley",
     "link": "http://www.casewatch.net/board/med/dooley/fl_complaint_1999.shtml"
   },
   {
     "id": "a8f5008d-85a9-4395-9e34-04bd39eaefa4",
     "name": "Meryl Dorey",
+    "firstname": "Meryl",
+    "lastname": "Dorey",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/11Ind/nvic.pdf"
   },
   {
     "id": "e95af496-a478-475b-b6aa-5df496629ce7",
     "name": "Rodney Dotson, MD",
+    "firstname": "Rodney",
+    "lastname": "Dotson",
     "link": "http://www.casewatch.net/board/med/dotson/complaint.shtml"
   },
   {
     "id": "cd16ed06-dcb4-4e35-a447-f9b6e23ddd78",
     "name": "Eric A. Dover, MD*",
+    "firstname": "Eric",
+    "lastname": "Dover",
     "link": "https://quackwatch.org/credential/reports/dover/"
   },
   {
     "id": "469697ad-10bd-42e6-80f3-47c8263cbec5",
-    "name": "Harold J. Dykema, DC",
+    "name": "Harold J. Dykema, DC",
+    "firstname": "Harold",
+    "lastname": "Dykema",
     "link": "http://www.chirobase.org/15News/dykema.html"
   },
   {
     "id": "5df4e2d4-e0cd-4205-9dcb-cf47dbb104ac",
     "name": "Stephen B. Edelson, MD",
+    "firstname": "Stephen",
+    "lastname": "Edelson",
     "link": "https://www.quackwatch.org/11Ind/edelson.html"
   },
   {
     "id": "5e472c1c-e577-416b-843c-a80451df814a",
     "name": "Ted L. Edwards, MD",
+    "firstname": "Ted",
+    "lastname": "Edwards",
     "link": "http://www.casewatch.net/board/med/edwards/complaint_2017.shtml"
   },
   {
     "id": "4d0cf1f7-848b-4ae3-8e38-8af522b7cc8c",
     "name": "John Edward",
+    "firstname": "John",
+    "lastname": "Edward",
     "link": "http://www.csicop.org/genx/edward/"
   },
   {
     "id": "2cce43da-9a64-4eae-a56f-7e372731f294",
     "name": "David Eisenberg, MD",
+    "firstname": "David",
+    "lastname": "Eisenberg",
     "link": "https://www.quackwatch.org/11Ind/eisenberg.html"
   },
   {
     "id": "4704884b-f2cf-4373-8055-8a7a6ad554f0",
     "name": "Mayer Eisenstein, MD",
+    "firstname": "Mayer",
+    "lastname": "Eisenstein",
     "link": "http://www.chicagotribune.com/news/local/chi-autism-doctor-eisenstein-may22,0,3826791.story"
   },
   {
     "id": "835811e6-7ae0-46ef-a2c7-1934b5ed9f45",
     "name": "Charles Farr, MD, PhD",
+    "firstname": "Charles",
+    "lastname": "Farr",
     "link": "http://www.sram.org/1101/charlesfarr.html"
   },
   {
     "id": "9b9f3767-6765-4d9d-bdc3-2d0c9d90ca87",
     "name": "Helke Ferrie",
+    "firstname": "Helke",
+    "lastname": "Ferrie",
     "link": "https://www.quackwatch.org/11Ind/ferrie.html"
   },
   {
     "id": "56254d2f-5f8d-4401-a5f5-2b05d09f5855",
     "name": "Barbara Loe Fisher",
+    "firstname": "Barbara",
+    "lastname": "Fisher",
     "link": "http://www.forbes.com/sites/matthewherper/2011/11/07/pediatricians-group-slams-delta-airlines-for-running-video-made-by-vaccine-skeptics/"
   },
   {
     "id": "221b476c-8de4-4e71-bf8c-331440ee2270",
     "name": "Roger H. Fisher, PhD",
+    "firstname": "Roger",
+    "lastname": "Fisher",
     "link": "https://www.quackwatch.org/11Ind/fisher.html"
   },
   {
     "id": "e77e22c9-3b80-4980-affa-f69871a7efd2",
     "name": "Paul M. Fleiss, MD",
+    "firstname": "Paul",
+    "lastname": "Fleiss",
     "link": "http://www.caewatch.org/board/med/fleiss.pdf"
   },
   {
     "id": "d81a9c1b-a329-4eba-8d37-e76a536cd343",
     "name": "Peter C. Foster",
+    "firstname": "Peter",
+    "lastname": "Foster",
     "link": "http://www.dietscam.org/reports/foster.shtml"
   },
   {
     "id": "35742352-7e6e-49ce-b973-2c4685e87bce",
-    "name": "David R. Friedman, DC, ND",
+    "name": "David R. Friedman, DC, ND",
+    "firstname": "David",
+    "lastname": "Friedman",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/DSH/seasilver.html"
   },
   {
     "id": "944b8dfe-192a-4a38-9699-4f1dcbace19b",
-    "name": "Wendi Friesen",
+    "name": "Wendi Friesen",
+    "firstname": "Wendi",
+    "lastname": "Friesen",
     "link": "https://quackfiles.blogspot.com/2004/12/quest-for-advertisers-lands-air.html"
   },
   {
     "id": "e6586f48-a398-431d-8aa5-434d06ba15e1",
     "name": "Viola M. Frymann, DO",
+    "firstname": "Viola",
+    "lastname": "Frymann",
     "link": "https://www.quackwatch.org/11Ind/frymann1.html"
   },
   {
     "id": "19542dc2-591c-4ddc-b0ad-0aac63d504fa",
     "name": "Arthur Furman, DDS",
+    "firstname": "Arthur",
+    "lastname": "Furman",
     "link": "http://www.casewatch.net/ftc/enforcements/furman/memorandum_1985.shtml"
   },
   {
     "id": "14a808ff-ab45-4035-9fdd-7e8699a240ba",
-    "name": "Joanne Gallagher, DC",
+    "name": "Joanne Gallagher, DC",
+    "firstname": "Joanne",
+    "lastname": "Gallagher",
     "link": "http://www.chirobase.org/16Victims/gallagher.html"
   },
   {
     "id": "eebfc8de-6c69-42f1-90f2-48af6ef39483",
     "name": "Timoteo Galvez, MD",
+    "firstname": "Timoteo",
+    "lastname": "Galvez",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/galvez.pdf"
   },
   {
     "id": "89b545b6-dc61-42af-98e7-94d8f41079c1",
     "name": "John E. Gambee, MD",
+    "firstname": "John",
+    "lastname": "Gambee",
     "link": "http://www.casewatch.net/board/med/gambee/suspension.shtml"
   },
   {
     "id": "52851a75-5cc2-49f1-a6eb-31da971bd1e4",
     "name": "Charles Gant, MD",
+    "firstname": "Charles",
+    "lastname": "Gant",
     "link": "https://www.quackwatch.org/11Ind/gant.html"
   },
   {
     "id": "fa64e9a5-abab-4653-a8dc-3349f49815fd",
-    "name": "Mark R. Geier, MD, PhD",
+    "name": "Mark R. Geier, MD, PhD",
+    "firstname": "Mark",
+    "lastname": "Geier",
     "link": "http://www.casewatch.net/civil/geier.shtml"
   },
   {
     "id": "7faab7bd-0478-49b4-9c01-9f058af58202",
     "name": "Michael Gerber, MD",
+    "firstname": "Michael",
+    "lastname": "Gerber",
     "link": "https://www.quackwatch.org/11Ind/gerber.html"
   },
   {
     "id": "964245c1-44f1-4f03-8dbe-ef5e4ca4136a",
     "name": "Isabell K. Gervais",
+    "firstname": "Isabell",
+    "lastname": "Gervais",
     "link": "http://www.casewatch.net/doj/gervais/indictment.shtml"
   },
   {
     "id": "d40a986c-7827-43c8-807c-702a0e6660c9",
     "name": "Bryan Gescuk, MD",
+    "firstname": "Bryan",
+    "lastname": "Gescuk",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/gescuk.pdf"
   },
   {
     "id": "3c447368-f342-4cfa-84ea-41132c67a3d9",
     "name": "Belle Gibson",
+    "firstname": "Belle",
+    "lastname": "Gibson",
     "link": "http://www.casewatch.net/foreign/gibson/gibson.shtml"
   },
   {
     "id": "784c471b-909b-48a6-9449-a16fd44b7f88",
     "name": "Simone Gold, MD, JD",
+    "firstname": "Simone",
+    "lastname": "Gold",
     "link": "https://quackwatch.org/11ind/a-skeptical-look-at-simone-gold-and-americas-frontline-doctors/"
   },
   {
     "id": "c4f079c7-b7bd-4509-b2bb-bee5aee1b693",
     "name": "Patrick A. Golden, MD",
+    "firstname": "Patrick",
+    "lastname": "Golden",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/golden.pdf"
   },
   {
     "id": "fd9b6532-ed57-4d42-b93c-f547804688cb",
     "name": "James S. Gordon, MD",
+    "firstname": "James",
+    "lastname": "Gordon",
     "link": "https://www.quackwatch.org/11Ind/gordon.html"
   },
   {
     "id": "d186e398-a13d-42ab-b749-4c9fdc0b6691",
     "name": "Jay Gordon, MD",
+    "firstname": "Jay",
+    "lastname": "Gordon",
     "link": "http://scienceblogs.com/insolence/2009/02/dr_jay_gordon_get_away_from_my_alma_mate.php#comment-1365857"
   },
   {
     "id": "d72294b1-a319-4679-abe5-abc7c002bee9",
-    "name": "David L. Gordon, MD",
+    "name": "David L. Gordon, MD",
+    "firstname": "David",
+    "lastname": "Gordon",
     "link": "https://www.hhs.gov/dab/decisions/cr-327.txt"
   },
   {
     "id": "be0e5dee-b214-4999-b7cf-272c5520d861",
     "name": "Jay Gordon, MD (Santa Monica, California)",
+    "firstname": "Jay",
+    "lastname": "Gordon",
+    "nickname": "Santa Monica, California",
     "link": "http://www.skepdic.com/gordonjay.html"
   },
   {
     "id": "083233ae-0e94-4bfc-852d-77c0a538830e",
     "name": "Richard Gorringe, MD",
+    "firstname": "Richard",
+    "lastname": "Gorringe",
     "link": "https://www.quackwatch.org/11Ind/gorringe.html"
   },
   {
     "id": "bbba9d4d-b8cf-4589-bc90-a0775deae400",
     "name": "Joe Graedon, Terry Graedon",
+    "firstname": "Joe",
+    "lastname": "Graedon",
     "link": "https://www.sciencebasedmedicine.org/misinterpreting-tact-no-chelation-does-not-outperform-statins-for-heart-disease/"
   },
   {
     "id": "403d0ef6-0eb3-4baf-ba84-490f311a4ce5",
     "name": "Doug Grant",
+    "firstname": "Doug",
+    "lastname": "Grant",
     "link": "https://www.quackwatch.org/11Ind/lapre.html"
   },
   {
     "id": "544c7818-70bf-41ee-a1ef-0cbbfa1686cf",
-    "name": "John Gray, PhD",
+    "name": "John Gray, PhD",
+    "firstname": "John",
+    "lastname": "Gray",
     "link": "http://ourworld.compuserve.com/homepages/women_rebuttal_from_uranus/welcome.htm"
   },
   {
     "id": "12ea0c9f-ec3b-4c2f-b85c-dcff59d12d2b",
     "name": "William E. Gray III, MD**",
+    "firstname": "William",
+    "lastname": "Gray",
     "link": "http://www.casewatch.net/board/med/gray/accusation.shtml"
   },
   {
     "id": "db53a7aa-a750-47a2-821b-08a90227e40e",
     "name": "Michael E. Greer, MD",
+    "firstname": "Michael",
+    "lastname": "Greer",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/greer/order_2011.pdf"
   },
   {
     "id": "e2fe9d67-c44a-4743-81b8-5b872f7d8e49",
     "name": "Alex Guerrero",
+    "firstname": "Alex",
+    "lastname": "Guerrero",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/PhonyAds/info.html#sg"
   },
   {
     "id": "9e590b52-7e23-4436-8a37-3610480bee28",
     "name": "Stephen R. Gundry, MD",
+    "firstname": "Stephen",
+    "lastname": "Gundry",
     "link": "http://nutritionstudies.org/the-plant-paradox-by-steven-grundy-md-commentary/"
   },
   {
     "id": "e2d0c657-212f-4d41-af19-3a58b2d7744e",
     "name": "Louise Habakus",
+    "firstname": "Louise",
+    "lastname": "Habakus",
     "link": "http://content.healthaffairs.org/content/30/6/1208.full"
   },
   {
     "id": "a291ed8d-1521-4d69-9988-96233ccb1a14",
     "name": "Boyd E. Haley, PhD",
+    "firstname": "Boyd",
+    "lastname": "Haley",
     "link": "http://www.casewatch.net/fdawarning/prod/2010/haley.shtml"
   },
   {
     "id": "75d431d1-8641-420d-9560-5420c7d3e0c2",
     "name": "Prudence Hall, MD",
+    "firstname": "Prudence",
+    "lastname": "Hall",
     "link": "http://www.casewatch.net/board/med/hall/complaint_2017.shtml"
   },
   {
     "id": "28790a2e-160a-4cad-87f9-f10c12bf371a",
-    "name": "Ronald L. Halstead, DC",
+    "name": "Ronald L. Halstead, DC",
+    "firstname": "Ronald",
+    "lastname": "Halstead",
     "link": "http://www.chirobase.org/15News/halstead.html"
   },
   {
     "id": "65200269-5d03-4a09-9c5b-3a71472019e3",
     "name": "William M. Hammesfahr,",
+    "firstname": "William",
+    "lastname": "Hammesfahr",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Tests/tcd.html"
   },
   {
@@ -707,1201 +986,1690 @@
   {
     "id": "22a50d86-4279-4506-91dc-a68cc4cdd100",
     "name": "J.B. Handley",
+    "firstname": "J.B.",
+    "lastname": "Handley",
     "link": "http://www.sciencebasedmedicine.org/?p=465#comment-18129"
   },
   {
     "id": "230fb928-eb19-4d51-a147-b1f297be48f6",
     "name": "Richard T. Hansen, DMD",
+    "firstname": "Richard",
+    "lastname": "Hansen",
     "link": "https://www.quackwatch.org/11Ind/hansen.html"
   },
   {
     "id": "5c761408-636c-47c0-ba4d-70c6252130fb",
-    "name": "Vani Hari (the “Food Babe”",
+    "name": "Vani Hari (the “Food Babe”)",
+    "firstname": "Vani",
+    "lastname": "Hari",
+    "nickname": "the Food Babe",
     "link": "http://www.bodyforwife.com/which-is-worse-food-babe-or-food-poisoning/"
   },
   {
     "id": "6c4eed22-3c25-4684-8595-ebdea8f55814",
     "name": "Steven R. Harris, MD",
+    "firstname": "Steven",
+    "lastname": "Harris",
     "link": "http://www.casewatch.net/board/med/harris_s/accusation_2013.shtml"
   },
   {
     "id": "d407f24f-7dfe-48b7-9ff8-fdd639944af6",
     "name": "David Heber, MD, PhD",
+    "firstname": "David",
+    "lastname": "Heber",
     "link": "http://www.latimes.com/business/la-fi-hiltzik-20130224,0,1163343.column"
   },
   {
     "id": "63b1c5d2-7059-4a3d-82f3-54087022b044",
     "name": "Roy G. Heilbron, MD",
+    "firstname": "Roy",
+    "lastname": "Heilbron",
     "link": "http://www.casewatch.net/board/med/heilbron/notice.shtml"
   },
   {
     "id": "2618a2ed-b924-42da-b1ca-c5902af6be53",
-    "name": "Bruce E. Hedendal, DC, PhD",
+    "name": "Bruce E. Hedendal, DC, PhD",
+    "firstname": "Bruce",
+    "lastname": "Hedendal",
     "link": "http://www.chirobase.org/15News/hedendal.html"
   },
   {
     "id": "a346aac5-1997-4909-8909-66a818f8e294",
     "name": "Henry Heimlich, MD",
+    "firstname": "Henry",
+    "lastname": "Heimlich",
     "link": "http://medfraud.info/"
   },
   {
     "id": "f22132c2-7d36-4f18-b334-0ba7c68d5a53",
     "name": "Joe Hickey, MD",
+    "firstname": "Joe",
+    "lastname": "Hickey",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/06ResearchProjects/als/hickey.pdf"
   },
   {
     "id": "da623805-eaa1-4e24-a832-a773b23a9298",
     "name": "Benny Hinn",
+    "firstname": "Benny",
+    "lastname": "Hinn",
     "link": "http://www.csicop.org/si/show/benny_hinn_healer_or_hypnotist/"
   },
   {
     "id": "d0b7533e-0f6a-4c63-9825-ad8f88e92ac6",
     "name": "Marty Hinz, MD",
+    "firstname": "Marty",
+    "lastname": "Hinz",
     "link": "https://www.quackwatch.org/11Ind/hinz.html"
   },
   {
     "id": "0dca5603-053c-4ff7-8ba2-bfc057ad9b88",
     "name": "Carole Hoffman",
+    "firstname": "Carole",
+    "lastname": "Hoffman",
     "link": "https://www.quackwatch.org/01QuackeryRelatedTopics/ndp.html"
   },
   {
     "id": "ffa4d82d-f4c9-455d-932d-58088980bdbe",
-    "name": "Jay M. Holder, DC",
+    "name": "Jay M. Holder, DC",
+    "firstname": "Jay M.",
+    "lastname": "Holder",
     "link": "http://www.chirobase.org/15News/holder.html"
   },
   {
     "id": "f4ece993-0607-4747-b3cc-3e78d6501884",
-    "name": "William Holder, MD",
+    "name": "William Holder, MD",
+    "firstname": "William",
+    "lastname": "Holder",
     "link": "http://www.casewatch.net/board/med/holder.shtml"
   },
   {
     "id": "20692fe0-120e-4850-aaa7-cd0a7ccc8d3d",
     "name": "Patrick Holford",
+    "firstname": "Patrick",
+    "lastname": "Holford",
     "link": "https://holfordwatch.wordpress.com/"
   },
   {
     "id": "25ed74a8-b2dd-4a6f-ace6-d92e16ee2eb4",
     "name": "Dennis Hooper, MD, PhD",
+    "firstname": "Dennis",
+    "lastname": "Hooper",
     "link": "https://www.quackwatch.org/11Ind/hooper.html"
   },
   {
     "id": "aa4df3ef-7718-459e-957c-95417de52ea1",
-    "name": "Len Horowitz, DMD, MPH",
+    "name": "Len Horowitz, DMD, MPH",
+    "firstname": "Len",
+    "lastname": "Horowitz",
     "link": "http://www.casewatch.net/fdawarning/prod/2004/horowitz.shtml"
   },
   {
     "id": "c171b945-3d92-46b0-8aa5-670b925ade71",
     "name": "Steven Hotze, MD",
+    "firstname": "Steven",
+    "lastname": "Hotze",
     "link": "https://www.quackwatch.org/11Ind/hotze.html"
   },
   {
     "id": "c6ed145a-6393-46ea-9b26-abec4b6ed341",
     "name": "Arianna Huffington",
+    "firstname": "Arianna",
+    "lastname": "Huffington",
     "link": "http://www.salon.com/env/vital_signs/2009/07/30/huffington_post/"
   },
   {
     "id": "0a936078-98da-411a-946a-bae60e2c4b4a",
     "name": "Jim Humble",
+    "firstname": "Jim",
+    "lastname": "Humble",
     "link": "http://www.ncahf.org/digest10/10-31.html"
   },
   {
     "id": "e95b4191-a394-4380-a8f3-f7e735a7af60",
     "name": "John Humiston, MD",
+    "firstname": "John",
+    "lastname": "Humiston",
     "link": "http://www.casewatch.net/board/med/humiston/accusation_2018.shtml"
   },
   {
     "id": "360e0ba3-34c0-4a4c-9893-054beef6c3b4",
-    "name": "Russell W. Hunt, MD",
+    "name": "Russell W. Hunt, MD",
+    "firstname": "Russell W.",
+    "lastname": "Hunt",
     "link": "http://www.casewatch.net/board/med/hunt.shtml"
   },
   {
     "id": "ef5f7ce7-da8b-490d-96e4-885a712fdeb6",
     "name": "Jeremiah Hunter (aka Jeffrey Dummett",
+    "firstname": "Jeremiah",
+    "lastname": "Hunter",
+    "nickname": "Jeffrey Dummett",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/foreign/hunter/appeal.pdf"
   },
   {
     "id": "f395fec8-0d21-46d5-87f8-764bcb5a3644",
     "name": "Mark Hyman, MD",
+    "firstname": "Mark",
+    "lastname": "Hyman",
     "link": "https://www.youtube.com/watch?v=3EDW_upV3ZU&feature=youtu.be&utm_source=OSS+Newsletter&utm_campaign=df2581fe8d-EMAIL_CAMPAIGN_2019-04-13&utm_medium=email&utm_term=0_995459bc2b-df2581fe8d-75210587"
   },
   {
     "id": "ff741f66-e605-4c63-aef7-11aecfd830c5",
     "name": "Louis Ignarro, PhD",
+    "firstname": "Louis",
+    "lastname": "Ignarro",
     "link": "https://quackwatch.org/mlm/c/herbalife/niteworks/"
   },
   {
     "id": "1a21cd4f-0db7-482e-bcb5-443fa8fbd92f",
     "name": "Michael Imani, PhD",
+    "firstname": "Michael",
+    "lastname": "Imani",
     "link": "http://www.casewatch.net/civil/imani/complaint.shtml"
   },
   {
     "id": "986d532c-ab9e-40bc-8b43-16de804f7211",
-    "name": "Jacques Imbeau, DMD",
+    "name": "Jacques Imbeau, DMD",
+    "firstname": "Jacques",
+    "lastname": "Imbeau",
     "link": "http://www.casewatch.net/foreign/imbeau.shtml"
   },
   {
     "id": "149506e1-6b64-4ee8-a57e-fc9bfe33217b",
     "name": "Stella Immanuel, MD",
+    "firstname": "Stella",
+    "lastname": "Immanuel",
     "link": "https://www.thedailybeast.com/stella-immanuel-trumps-new-covid-doctor-believes-in-alien-dna-demon-sperm-and-hydroxychloroquine"
   },
   {
     "id": "d013fa61-a7f0-42f6-b941-b0e8a3c8fa66",
     "name": "Charles K. Inlander",
+    "firstname": "Charles K.",
+    "lastname": "Inlander",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/pms.html"
   },
   {
     "id": "fd362361-322c-4303-a7f5-2dcc0cd04434",
     "name": "Klee Irwin",
+    "firstname": "Klee",
+    "lastname": "Irwin",
     "link": "http://www.infomercialwatch.org/reports/dualaction.shtml"
   },
   {
     "id": "b4daf369-57f7-47bf-a980-962c2a60dafe",
-    "name": "Joseph Jemsek, MD",
+    "name": "Joseph Jemsek, MD",
+    "firstname": "Joseph",
+    "lastname": "Jemsek",
     "link": "http://www.casewatch.net/board/med/jemsek/order.shtml"
   },
   {
     "id": "5566eeb5-b26e-463c-9575-1308c14271e3",
     "name": "Sayer Ji",
+    "firstname": "Sayer",
+    "lastname": "Ji",
     "link": "https://mcgill.ca/oss/article/pseudoscience/popular-health-guru-sayer-ji-curates-scientific-literature-his-bachelors-degree-philosophy?utm_source=OSS+Newsletter&utm_campaign=253b9195c8-EMAIL_CAMPAIGN_5_3_2019_14_30_COPY_01&utm_medium=email&utm_term=0_995459bc2b-253b9195c8-75210587"
   },
   {
     "id": "4bacac07-f736-4b80-af0a-df0c280703e8",
     "name": "John of God",
+    "firstname": "John",
+    "lastname": "of God",
     "link": "http://www.csicop.org/si/show/john_of_god_healings_by_entities/"
   },
   {
     "id": "8d203345-c006-4add-b302-d05ea03a28f4",
     "name": "Andrew P. Jones, MD",
+    "firstname": "Andrew P.",
+    "lastname": "Jones",
     "link": "http://www.casewatch.net/board/med/ap_jones/complaint.shtml"
   },
   {
     "id": "663a793a-6c99-4bad-981d-9f89b5cb5df3",
     "name": "Bennie S. Johnson, DO",
+    "firstname": "Bennie S.",
+    "lastname": "Johnson",
     "link": "http://www.casewatch.net/board/med/johnson_b/accusation_2016.shtml"
   },
   {
     "id": "8cd95cfb-3ff8-4138-9df0-9a5595fc4901",
     "name": "Brian Johnson (“The Liver King”)",
+    "firstname": "Brian",
+    "lastname": "Johnson",
+    "nickname": "The Liver King",
     "link": "https://skepticalinquirer.org/exclusive/the-liver-king-lies-and-logical-fallacies/"
   },
   {
     "id": "da40f353-71d6-460f-8674-d0ff94d56018",
     "name": "James E. Johnson, MD",
+    "firstname": "James E.",
+    "lastname": "Johnson",
     "link": "https://www.quackwatch.org/11Ind/johnson.html"
   },
   {
     "id": "acb1a351-cebe-4d35-9733-8702a7caad3e",
     "name": "Jesse Jutkowitz, DC",
+    "firstname": "Jesse",
+    "lastname": "Jutkowitz",
     "link": "https://quackwatch.org/chiropractic/dd/abc/"
   },
   {
     "id": "407f0847-3754-458d-8799-a0b44cdbad0b",
     "name": "Eleazer M. Kadile, MD",
+    "firstname": "Eleazer M.",
+    "lastname": "Kadile",
     "link": "https://www.quackwatch.org/11Ind/kadile.html"
   },
   {
     "id": "44ab4b30-f405-44ab-8a22-08018ff2d691",
     "name": "Daniel Kamen, DC",
+    "firstname": "Daniel",
+    "lastname": "Kamen",
     "link": "http://www.chirobase.org/06DD/chirovet.html"
   },
   {
     "id": "a82b5fe4-87ad-48a6-b2fa-baeb5e58db52",
     "name": "Ted Kaptchuk, OMD",
+    "firstname": "Ted",
+    "lastname": "Kaptchuk",
     "link": "http://www.sciencebasedmedicine.org/?s=kaptchuk"
   },
   {
     "id": "a5bfb515-ef74-4265-9f0f-f01a5dae8f02",
     "name": "David Katz, MD",
+    "firstname": "David",
+    "lastname": "Katz",
     "link": "https://www.sciencebasedmedicine.org/integrative-medicine-naturopathy-and-a-more-fluid-form-of-evidence/"
   },
   {
     "id": "c5970726-e526-40a4-940a-dbb2e8b877a6",
     "name": "Jimmy Keller",
+    "firstname": "Jimmy",
+    "lastname": "Keller",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/tumorex.html"
   },
   {
     "id": "cd9b0e90-e350-4cdd-a8d8-ce8084bba2a9",
     "name": "Robert Kennedy, Jr",
+    "firstname": "Robert",
+    "lastname": "Kennedy",
     "link": "http://www.nytimes.com/2015/07/05/opinion/sunday/frank-bruni-california-camelot-and-vaccines.html?_r=1"
   },
   {
     "id": "22218e77-1654-4329-99a6-f04fc1963236",
     "name": "Roy E. Kerry, MD",
+    "firstname": "Roy E.",
+    "lastname": "Kerry",
     "link": "http://www.casewatch.net/board/med/kerry/complaint.shtml"
   },
   {
     "id": "7d6e6308-7166-4970-b0cf-7b1e161adaf6",
     "name": "David Kirby",
+    "firstname": "David",
+    "lastname": "Kirby",
     "link": "http://scienceblogs.com/insolence/2008/01/david_kirby_when_youre_in_a_hole_over_va.php"
   },
   {
     "id": "5ce7b18d-097c-4486-b2a6-b5ffb980a5c6",
     "name": "Dietrich Klinghardt, MD",
+    "firstname": "Dietrich",
+    "lastname": "Klinghardt",
     "link": "http://www.casewatch.net/board/med/klinghardt/order.shtml"
   },
   {
     "id": "2707b27b-e55f-48ce-8adb-35cd2c81e882",
     "name": "Jay Kordich",
+    "firstname": "Jay",
+    "lastname": "Kordich",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/juicing.html"
   },
   {
     "id": "e86899dc-f991-420f-b30e-e94ff022253c",
     "name": "Tedd Koren, DC",
+    "firstname": "Tedd",
+    "lastname": "Koren",
     "link": "http://www.chirobase.org/04Ads/koren.html"
   },
   {
     "id": "11953c7a-654e-4562-bd3d-fe6877361a92",
     "name": "Brent Korn, DO",
+    "firstname": "Brent",
+    "lastname": "Korn",
     "link": "http://www.casewatch.net/board/med/korn/censure_2014.shtml"
   },
   {
     "id": "63b786de-706a-4bce-ad42-c9339020144c",
     "name": "Dean Kraft",
+    "firstname": "Dean",
+    "lastname": "Kraft",
     "link": "http://informahealthcare.com/doi/pdf/10.3109/17482968.2011.609309"
   },
   {
     "id": "2ae73ed1-f221-48a6-9295-b8b733a8db8c",
     "name": "Nelson Kraucak, MD",
+    "firstname": "Nelson",
+    "lastname": "Kraucak",
     "link": "https://quackwatch.org/06ResearchProjects/saam/overview.html"
   },
   {
     "id": "aa6a50a4-5287-43ab-a1fe-23b175867433",
     "name": "Arthur C. Krigsman, MD",
+    "firstname": "Arthur C.",
+    "lastname": "Krigsman",
     "link": "http://www.casewatch.net/board/med/krigsman/complaint.shtml"
   },
   {
     "id": "9027e510-c94a-465d-8c09-f7e44e13f820",
     "name": "Josef Krop, MD",
+    "firstname": "Josef",
+    "lastname": "Krop",
     "link": "https://www.quackwatch.org/11Ind/Krop/krop.html"
   },
   {
     "id": "054f939b-0e11-487f-9aef-a6738a7a5d6f",
     "name": "Jacob W. Kulp, DC",
+    "firstname": "Jacob W.",
+    "lastname": "Kulp",
     "link": "https://www.quackwatch.org/11Ind/kulp.html"
   },
   {
     "id": "0a7df549-8a1b-4edf-999a-f4c38cce6723",
     "name": "Robert Kulacz, DDS",
+    "firstname": "Robert",
+    "lastname": "Kulacz",
     "link": "http://www.dentalwatch.org/reg/kulacz.html"
   },
   {
     "id": "981fdaf8-68cf-42cf-a76c-95df015300f8",
     "name": "Andrew J. Lane",
+    "firstname": "Andrew J.",
+    "lastname": "Lane",
     "link": "https://quackwatch.org/02ConsumerProtection/FTCActions/lane.html"
   },
   {
     "id": "1c969c45-45eb-404e-8349-0657d39a9109",
-    "name": "I. William Lane, PhD",
+    "name": "I. William Lane, PhD",
+    "firstname": "I. William",
+    "lastname": "Lane",
     "link": "https://quackwatch.org/02ConsumerProtection/FTCActions/lane.html"
   },
   {
     "id": "56171bb3-d588-4d69-8a93-18ecc04352b4",
     "name": "John A. Launius, MD",
+    "firstname": "John A.",
+    "lastname": "Launius",
     "link": "http://www.casewatch.net/board/med/launius.shtml"
   },
   {
     "id": "02b34cdd-6aee-41e3-bce2-5e347fd3e666",
     "name": "Sarah Laurie, BMBS",
+    "firstname": "Sarah",
+    "lastname": "Laurie",
     "link": "http://ramblingsdc.net/Australia/DrLaurie"
   },
   {
     "id": "44fd3068-a533-4374-9c55-66468f924216",
     "name": "Charles E. Law, Jr., MD",
+    "firstname": "Charles E.",
+    "lastname": "Law",
     "link": "http://www.casewatch.net/board/med/law/complaint.shtml"
   },
   {
     "id": "2ff89c2b-ee50-45a7-90aa-559abc0dbd36",
-    "name": "Ronald Lawrence,MD, PhD",
+    "name": "Ronald Lawrence, MD, PhD",
+    "firstname": "Ronald",
+    "lastname": "Lawrence",
     "link": "https://www.ftc.gov/opa/2005/06/gerovita.htm"
   },
   {
     "id": "bfa8c73a-9b67-49e1-9e89-649accb848fb",
     "name": "Terry J. Lee, DDS",
+    "firstname": "Terry J.",
+    "lastname": "Lee",
     "link": "http://www.dentalwatch.org/reg/lee.html"
   },
   {
     "id": "4e605657-d5d5-4424-898c-12f236a733db",
     "name": "John Luther Lentz, Jr., MD",
+    "firstname": "John Luther",
+    "lastname": "Lentz",
     "link": "http://www.casewatch.net/board/med/lentz/complaint_3.shtml"
   },
   {
     "id": "9a4ba018-12bb-42c8-927f-c845949e7b88",
     "name": "Ben Lynch, ND",
+    "firstname": "Ben",
+    "lastname": "Lynch",
     "link": "https://www.forbes.com/sites/brittmariehermes/2016/11/14/genetic-sequence-exploited-supplement-industry/#6587eb9c2e67"
   },
   {
     "id": "99e2d785-a987-4132-ae1d-2714a4e01b03",
     "name": "Anthony Lionetti, MD",
+    "firstname": "Anthony",
+    "lastname": "Lionetti",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/doj/lionetti/brief_against_certiorari.pdf"
   },
   {
     "id": "75e228aa-f25b-464a-9fc2-7e6df634b977",
     "name": "Robert L Lytle, DDS (Larry Lytle",
+    "firstname": "Robert L.",
+    "lastname": "Lytle",
+    "nickname": "Larry Lytle",
     "link": "http://www.credentialwatch.org/reports/pma/overview.shtml"
   },
   {
     "id": "1d5e8753-1bc1-43b3-be9b-b5998db2f242",
     "name": "Loren Lockman",
+    "firstname": "Loren",
+    "lastname": "Lockman",
     "link": "https://quackwatch.org/02ConsumerProtection/tanglewood.html"
   },
   {
     "id": "5855a773-fe14-4508-9e1a-521194fb6604",
-    "name": "Karl Loren (a/k/a Loren Karl Troescher)",
+    "name": "Karl Loren (a/k/a Loren Karl Troescher)",
+    "firstname": "Karl",
+    "lastname": "Loren",
+    "nickname": "Loren Karl Troescher",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/DSH/msm.html#Loren"
   },
   {
     "id": "9f6e7804-a480-4908-bdf1-e75e6af5920f",
     "name": "Dwight Lundell, MD",
+    "firstname": "Dwight",
+    "lastname": "Lundell",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/lundell/order_2008.pdf"
   },
   {
     "id": "39f09c68-b352-43a7-bff6-5f9b25ba84ea",
     "name": "James J. Mahoney, DO",
+    "firstname": "James J.",
+    "lastname": "Mahoney",
     "link": "https://www.quackwatch.org/01QuackeryRelatedTopics/Tests/lifeclick.html"
   },
   {
     "id": "d5019ed4-683a-4b40-8423-486e0b0fd077",
     "name": "Rev. George Malkmus",
+    "firstname": "George",
+    "lastname": "Malkmus",
     "link": "https://www.quackwatch.org/11Ind/malkmus.html"
   },
   {
     "id": "b71e2a4b-2142-4db0-af3c-6f2f184ef1c4",
     "name": "Robert W. Malone, MD",
+    "firstname": "Robert W.",
+    "lastname": "Malone",
     "link": "https://www.theatlantic.com/science/archive/2021/08/robert-malone-vaccine-inventor-vaccine-skeptic/619734/"
   },
   {
     "id": "cff4d1c4-e9b9-4502-8377-24ecc0e48273",
     "name": "Michael D. Margolis, DDS",
+    "firstname": "Michael D.",
+    "lastname": "Margolis",
     "link": "https://quackwatch.org/cases/board/dental/disciplinary-actions-against-michael-d-margolis-d-d-s/"
   },
   {
     "id": "eba0e88d-a42e-44e3-9eae-2389202d32e0",
-    "name": "Richard Markoll, MD, PhD",
+    "name": "Richard Markoll, MD, PhD",
+    "firstname": "Richard",
+    "lastname": "Markoll",
     "link": "https://quackwatch.org/04ConsumerEducation/QA/magnet.html#markoll"
   },
   {
     "id": "d2d7a290-973a-4707-8653-5f5e2d694866",
-    "name": "Richard A. Marschall, ND",
+    "name": "Richard A. Marschall, ND",
+    "firstname": "Richard A.",
+    "lastname": "Marschall",
     "link": "https://quackwatch.org/04ConsumerEducation/News/wilson.html"
   },
   {
     "id": "7e9480fa-30bb-444c-85ea-17b78a680f3c",
     "name": "Gary Martin",
+    "firstname": "Gary",
+    "lastname": "Martin",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Tests/reams.html"
   },
   {
     "id": "bd75c965-a2f5-4811-88ac-7f5fe15f2f9c",
-    "name": "James J. M",
+    "name": "James J. Martin, DC",
+    "firstname": "James J.",
+    "lastname": "Martin",
     "link": "http://www.casewatch.net/board/chiro/martin_j/discipline.shtml"
   },
   {
     "id": "08ee11a6-cb5e-4f3d-aa6c-1fe4ffe09747",
     "name": "artin, DC",
+    "firstname": "artin",
+    "lastname": "DC",
     "link": "http://www.casewatch.net/board/chiro/martin_j/discipline.shtml"
   },
   {
     "id": "3d97966d-7adf-4876-8b53-5498417749d7",
     "name": "Robert C. Martin, DC",
+    "firstname": "Robert C.",
+    "lastname": "Martin",
     "link": "https://quackwatch.org/12Web/drbob.html"
   },
   {
     "id": "101871bb-ad97-43a0-8da8-f9e0c39f93f4",
     "name": "Betty Mar",
+    "firstname": "Betty",
+    "lastname": "Mar",
     "link": "https://americanloons.blogspot.com/2014/02/919-betty-martini.html"
   },
   {
     "id": "5f8cd13d-1e0d-4195-b5ab-3c01d0e8bb4e",
     "name": "tini (also known as Nancy Markle)",
+    "firstname": "tini",
+    "lastname": "Markle",
+    "nickname": "Nancy Markle",
     "link": "https://americanloons.blogspot.com/2014/02/919-betty-martini.html"
   },
   {
     "id": "44df9907-db4b-41b5-953b-c32b76101872",
     "name": "James P. Matthews, MD",
+    "firstname": "James P.",
+    "lastname": "Matthews",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/matthews/order_2010.pdf"
   },
   {
     "id": "85c82f56-3c6d-4840-927e-ea9e8361907d",
     "name": "Steven Mays, DO",
+    "firstname": "Steven",
+    "lastname": "Mays",
     "link": "http://www.casewatch.net/board/med/mays/order.shtml"
   },
   {
     "id": "d74b5476-da85-40de-bc1b-be8434ab5d8e",
     "name": "Donald D. McBride, Jr., ND",
+    "firstname": "Donald D.",
+    "lastname": "McBride",
     "link": "https://quackwatch.org/cases/board/nat/mcbride/"
   },
   {
     "id": "5520b051-da44-48e6-807a-f31b6f97f83c",
-    "name": "Marijah McCain, ND, MD(AM), PhD",
+    "name": "Marijah McCain, ND, MD(AM), PhD",
+    "firstname": "Marijah",
+    "lastname": "McCain",
     "link": "https://quackwatch.org/02ConsumerProtection/AG/AR/herbalhealer.html"
   },
   {
     "id": "57ce1303-6dc2-4a24-9279-cb026d657c8f",
     "name": "Jennifer McCarthy",
+    "firstname": "Jennifer",
+    "lastname": "McCarthy",
     "link": "http://jennymccarthybodycount.com/"
   },
   {
     "id": "50115bc1-72de-4046-a6f6-4483deeb221e",
     "name": "John A McDougall, MD",
+    "firstname": "John A.",
+    "lastname": "McDougall",
     "link": "https://www.skepdoc.info/the-mcdougall-diet/"
   },
   {
     "id": "cd959016-2433-4eff-9677-a3ef9a205b8e",
     "name": "Gillian McKeith",
+    "firstname": "Gillian",
+    "lastname": "McKeith",
     "link": "https://www.quackwatch.org/11Ind/mckeith.html"
   },
   {
     "id": "0ffb6a13-40ee-4693-accf-9e7a8da7d17e",
     "name": "Joseph McWherter, MD",
+    "firstname": "Joseph",
+    "lastname": "McWherter",
     "link": "http://www.casewatch.net/board/med/mcwherter/complaint.shtml"
   },
   {
     "id": "2d06fc8c-25e2-4e29-a05f-5e9ff59c713b",
     "name": "John O. Meadors, DC",
+    "firstname": "John O.",
+    "lastname": "Meadors",
     "link": "http://www.ncahf.org/digest12/12-45.html"
   },
   {
     "id": "c5763ee1-2bd1-47d8-9c31-59d84a2fee4f",
     "name": "Joseph Mercola, DO",
+    "firstname": "Joseph",
+    "lastname": "Mercola",
     "link": "https://www.quackwatch.org/11Ind/mercola.html"
   },
   {
     "id": "db7db0f9-63d2-43e7-a0cb-d1676858b2d9",
     "name": "Dorothy Merritt",
+    "firstname": "Dorothy",
+    "lastname": "Merritt",
     "link": "http://www.chelationwatch.org/reg/merritt.shtml"
   },
   {
     "id": "3d6eeae3-a28f-41eb-aaee-7feed7f369c0",
     "name": "Julian Metter, PhD",
+    "firstname": "Julian",
+    "lastname": "Metter",
     "link": "http://www.casewatch.net/board/psych/metter.shtml"
   },
   {
     "id": "69283677-23a0-4655-84cd-2bebae100df8",
     "name": "Deborah A. Metzger, MD",
+    "firstname": "Deborah A.",
+    "lastname": "Metzger",
     "link": "http://www.casewatch.net/board/med/metzger/accusation.shtml"
   },
   {
     "id": "164cccac-595d-4752-a454-1f9b34c16336",
     "name": "Diane Meyer, DDS",
+    "firstname": "Diane",
+    "lastname": "Meyer",
     "link": "http://www.casewatch.net/board/dent/meyer/revocation_2013.shtml"
   },
   {
     "id": "31f041cd-9d78-492e-8348-5a6029d867ab",
     "name": "Andrew McNaughton",
+    "firstname": "Andrew",
+    "lastname": "McNaughton",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/laetrile.html"
   },
   {
     "id": "5e4061d6-6b26-4d5d-be02-c49387e5aba4",
     "name": "Judy Mikovits, PhD",
+    "firstname": "Judy",
+    "lastname": "Mikovits",
     "link": "https://sciencebasedmedicine.org/plandemic-judy-mikovits-covid-19/"
   },
   {
     "id": "af888eb4-510f-4a7c-84bf-0add5dd6bd29",
     "name": "Lionel Milgrom",
+    "firstname": "Lionel",
+    "lastname": "Milgrom",
     "link": "http://scienceblogs.com/insolence/2008/12/19/your-friday-dose-of-woo-when-a-mad-mathe/"
   },
   {
     "id": "44569d80-9af2-4531-b52e-63f8594c6574",
     "name": "Earl Mindell, RPh",
+    "firstname": "Earl",
+    "lastname": "Mindell",
     "link": "https://quackwatch.org/consumer-education/negativebr/vbible/"
   },
   {
     "id": "7ef7d8aa-5a4e-4a3a-8a68-cf0212e039f3",
-    "name": "David Ira Minkoff, MD",
+    "name": "David Ira Minkoff, MD",
+    "firstname": "David Ira",
+    "lastname": "Minkoff",
     "link": "https://www.quackwatch.org/11Ind/phillips.html"
   },
   {
     "id": "c564e172-aa30-4570-bcde-e922d9a1c59e",
-    "name": "Sandi Mitchell, PhD",
+    "name": "Sandi Mitchell, PhD",
+    "firstname": "Sandi",
+    "lastname": "Mitchell",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/donsbachuniv.html#mitchell"
   },
   {
     "id": "7d50b751-1cc0-4ae3-ae1d-6817a3d0106e",
     "name": "Jean Monro, MB BS, MRCS, LRCP, FAAEM, DIBEM, MACOEM",
+    "firstname": "Jean",
+    "lastname": "Monro",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/foreign/monro/bmc_decision.pdf"
   },
   {
     "id": "78658aa4-25ba-41da-b50c-4080e6de190a",
     "name": "Joseph R. Montante, MD",
+    "firstname": "Joseph R.",
+    "lastname": "Montante",
     "link": "https://www.quackwatch.org/01QuackeryRelatedTopics/Tests/nutrabalance.html"
   },
   {
     "id": "993d31e1-bc53-40bd-bdb7-d940863bee57",
     "name": "Ralph W. Moss, PhD",
+    "firstname": "Ralph W.",
+    "lastname": "Moss",
     "link": "http://www.quackwatch.org/04ConsumerEducation/Reviews/moss.html"
   },
   {
     "id": "09ad88db-08fd-43b8-bff7-0648750f8893",
     "name": "Jonathan B. Murphy, MD",
+    "firstname": "Jonathan B.",
+    "lastname": "Murphy",
     "link": "http://www.casewatch.net/board/med/murphy_jonathan/order_2014.shtml"
   },
   {
     "id": "f2eed619-f441-4b93-870d-ed883e84c6c3",
     "name": "Marty Murray",
+    "firstname": "Marty",
+    "lastname": "Murray",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/06ResearchProjects/als/murray.pdf"
   },
   {
     "id": "d953c347-38e9-4689-961a-6703707b96e1",
     "name": "Elon Musk",
+    "firstname": "Elon",
+    "lastname": "Musk",
     "link": "https://theintercept.com/2022/12/15/elon-musk-twitter-covid-vaccine-simone-gold/"
   },
   {
     "id": "4a5e4142-4367-4ef0-983e-2e80430727a8",
     "name": "William K. Nabors, DDS",
+    "firstname": "William K.",
+    "lastname": "Nabors",
     "link": "http://www.casewatch.net/board/dent/nabors/order.shtml"
   },
   {
     "id": "d2d9e741-d345-45fc-9bfd-fd7ca66724ee",
     "name": "Gaston Naessons",
+    "firstname": "Gaston",
+    "lastname": "Naessons",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/714x.html"
   },
   {
     "id": "c28d56cb-6fa1-45de-b5a2-389bd8c6b0cf",
     "name": "Jarir Nakouzi, MD",
+    "firstname": "Jarir",
+    "lastname": "Nakouzi",
     "link": "http://www.homeowatch.org/reg/BHI/bhi.html"
   },
   {
     "id": "c2c42411-f526-4bb3-a39e-a445522dabb0",
-    "name": "Devi S. Nambudripad, DC, LAc, RN, PhD",
+    "name": "Devi S. Nambudripad, DC, LAc, RN, PhD",
+    "firstname": "Devi S.",
+    "lastname": "Nambudripad",
     "link": "http://www.chirobase.org/06DD/naet.html"
   },
   {
     "id": "9f0e8d6c-4779-477a-b604-b360e96dba6a",
-    "name": "Joseph Natole, Jr., MD",
+    "name": "Joseph Natole, Jr., MD",
+    "firstname": "Joseph",
+    "lastname": "Natole",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/lyme.html#Natole"
   },
   {
     "id": "33b5885c-5a6c-491d-9ea9-7e4e6d8db58e",
     "name": "Daniel Neides, MD",
+    "firstname": "Daniel",
+    "lastname": "Neides",
     "link": "https://sciencebasedmedicine.org/cleveland-clinic-spewed-antivaccine-misinformation/"
   },
   {
     "id": "eef10565-861b-4837-b7aa-d01d5fa91ee7",
     "name": "Bradley Nelson, DC",
+    "firstname": "Bradley",
+    "lastname": "Nelson",
     "link": "http://www.skepdic.com/nelson_bradley.html"
   },
   {
     "id": "b74917a2-7acf-43ee-817a-c56334fbca3f",
-    "name": "William C. Nelson, PhD, MD, NMD, ScD, ND",
+    "name": "William C. Nelson, PhD, MD, NMD, ScD, ND",
+    "firstname": "William C.",
+    "lastname": "Nelson",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Tests/xrroid.html"
   },
   {
     "id": "1fe74515-f523-4fb5-a013-ce60b7493f56",
     "name": "Jillian Newlands",
+    "firstname": "Jillian",
+    "lastname": "Newlands",
     "link": "http://www.cancertreatmentwatch.org/reg/newlands.shtml"
   },
   {
     "id": "a7111a9b-e673-495c-a60c-6cb298134e40",
     "name": "Christiane Northrup, MD",
+    "firstname": "Christiane",
+    "lastname": "Northrup",
     "link": "http://www.sciencebasedmedicine.org/?p=110"
   },
   {
     "id": "8599dca4-4687-41f5-a996-e4544a3f994e",
     "name": "Gary Null, PhD",
+    "firstname": "Gary",
+    "lastname": "Null",
     "link": "https://quackwatch.org/04ConsumerEducation/null.html"
   },
   {
     "id": "dc360b41-8fb3-4b10-9e72-012a0287370e",
-    "name": "Brian E.P.B. O’Connell",
+    "name": "Brian E.P.B. O’Connell",
+    "firstname": "Brian E.P.B.",
+    "lastname": "O’Connell",
     "link": "http://www.naturowatch.org/legal/oconnell.shtml"
   },
   {
     "id": "161e60aa-bf58-4312-884d-fa7c096c8252",
     "name": "Joseph Chikelue Obi",
+    "firstname": "Joseph Chikelue",
+    "lastname": "Obi",
     "link": "http://www.chroniclelive.co.uk/north-east-news/todays-evening-chronicle/tm_objectid=14557214&method=full&siteid=50081&headline=shamed-doctor-probe-name_page.html"
   },
   {
     "id": "857e282b-13b6-4edd-8401-8de66e342fa8",
     "name": "Kathy Oddenino, BS, RN",
+    "firstname": "Kathy",
+    "lastname": "Oddenino",
     "link": "https://www.quackwatch.org/01QuackeryRelatedTopics/ndp.html"
   },
   {
     "id": "e4ee55d2-cad4-496a-adb9-4b71d365ebff",
-    "name": "Alex Orbito",
+    "name": "Alex Orbito",
+    "firstname": "Alex",
+    "lastname": "Orbito",
     "link": "http://www.rickross.com/reference/general/general475.html"
   },
   {
     "id": "a767b020-b307-4295-929d-c7455ff2f96e",
-    "name": "Gary Ordog, MD",
+    "name": "Gary Ordog, MD",
+    "firstname": "Gary",
+    "lastname": "Ordog",
     "link": "http://www.casewatch.net/board/med/ordog/accusation.shtml"
   },
   {
     "id": "ad624ef3-826f-439a-987b-e1ea53705688",
     "name": "Ina June Organ",
+    "firstname": "Ina June",
+    "lastname": "Organ",
     "link": "http://www.casewatch.net/ag/il/organ.shtml"
   },
   {
     "id": "38bf5139-7c73-4f0f-8a0d-b45bdd1d7ec6",
     "name": "Memhet Oz, MD",
+    "firstname": "Memhet",
+    "lastname": "Oz",
     "link": "http://www.sciencebasedmedicine.org/?p=11513races_the.php#more"
   },
   {
     "id": "7deedbdd-1187-45e0-9ddf-0dd20fb914b4",
-    "name": "Gary Pace, PhD",
+    "name": "Gary Pace, PhD",
+    "firstname": "Gary",
+    "lastname": "Pace",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/donsbachuniv.html#pace"
   },
   {
     "id": "aa71d7c5-da64-45a1-8c7b-765362989d4f",
     "name": "Gwyneth Paltrow",
+    "firstname": "Gwyneth",
+    "lastname": "Paltrow",
     "link": "https://www.truthinadvertising.org/tina-takes-goop-claims-to-regulators/"
   },
   {
     "id": "ddb6f677-1f52-4a80-b6c1-93a523ecc619",
     "name": "Alireza Panahpour, DDS",
+    "firstname": "Alireza",
+    "lastname": "Panahpour",
     "link": "http://www.casewatch.net/board/dent/pana/accusation.shtml"
   },
   {
     "id": "c663aab8-b522-4b63-bf4d-ddb042858776",
     "name": "Durk Pearson",
+    "firstname": "Durk",
+    "lastname": "Pearson",
     "link": "https://quackwatch.org/04ConsumerEducation/NegativeBR/le.html"
   },
   {
     "id": "b620d10b-cac1-41f1-a23b-99faf3bc612e",
     "name": "David Perlmutter, MD",
+    "firstname": "David",
+    "lastname": "Perlmutter",
     "link": "http://nymag.com/scienceofus/2015/06/problem-with-the-grain-brain-doctor.html"
   },
   {
     "id": "5787b007-8069-4eb8-aa5d-22363693bdac",
-    "name": "Nicholas V. Perricone, MD",
+    "name": "Nicholas V. Perricone, MD",
+    "firstname": "Nicholas V.",
+    "lastname": "Perricone",
     "link": "http://www.quackwatch.org/11Ind/perricone.html"
   },
   {
     "id": "918d27a7-5b20-4b36-b4e8-63bd9b24ab41",
     "name": "Laurence Perry, NMD, ND",
+    "firstname": "Laurence",
+    "lastname": "Perry",
     "link": "https://www.quackwatch.org/11Ind/perry.html"
   },
   {
     "id": "d20b839a-34bc-42bf-983f-d481329088bd",
     "name": "Brian S. Peskin",
+    "firstname": "Brian S.",
+    "lastname": "Peskin",
     "link": "https://www.quackwatch.org/11Ind/Peskin/peskin.html"
   },
   {
     "id": "070fd4e5-81b0-440f-a514-667b3f35d9f1",
     "name": "Douglas J. Phillips, DDS",
+    "firstname": "Douglas J.",
+    "lastname": "Phillips",
     "link": "https://www.quackwatch.org/11Ind/phillips.html"
   },
   {
     "id": "55d7b102-200a-4a2a-8fac-af22bbdf1181",
     "name": "Michael Pinkus, DC",
+    "firstname": "Michael",
+    "lastname": "Pinkus",
     "link": "https://www.quackwatch.org/11Ind/Pinkus/pinkus1.html"
   },
   {
     "id": "2f8cc960-49a7-42d0-ad51-7409357a6eab",
     "name": "John C. Pittman, MD",
+    "firstname": "John C.",
+    "lastname": "Pittman",
     "link": "https://www.quackwatch.org/11Ind/pittman.html"
   },
   {
     "id": "c972e459-6b10-4464-bfff-6fb7c8ca57b4",
     "name": "Charles Pixley",
+    "firstname": "Charles",
+    "lastname": "Pixley",
     "link": "https://quackwatch.org/02ConsumerProtection/FDAActions/pixley.html"
   },
   {
     "id": "3b247574-37bf-48ba-88c7-c908a57eef07",
     "name": "Micheal E. Platt, MD",
+    "firstname": "Micheal E.",
+    "lastname": "Platt",
     "link": "http://www.casewatch.net/board/med/platt/complaint.shtml"
   },
   {
     "id": "8555fc4c-254a-48dc-bd65-f87c9f8c25fc",
     "name": "David Eugene Pontius",
+    "firstname": "David Eugene",
+    "lastname": "Pontius",
     "link": "https://www.quackwatch.org/11Ind/pontius.html"
   },
   {
     "id": "8429da5a-8c83-4ca9-befc-c80e7b39a85a",
     "name": "Helmut Prahl, PhD",
+    "firstname": "Helmut",
+    "lastname": "Prahl",
     "link": "http://www.oocities.org/plsdrug/letter.htm"
   },
   {
     "id": "931d3fdb-418b-4fca-97a1-791afcde5adc",
-    "name": "Dr. Ian Geoffrey Raddatz",
+    "name": "Dr. Ian Geoffrey Raddatz",
+    "firstname": "Ian Geoffrey",
+    "lastname": "Raddatz",
     "link": "http://www.mlmwatch.org/04C/Mannatech/raddatz.html"
   },
   {
     "id": "df9a63a5-fba7-4cdd-a230-9cb30774b3fb",
     "name": "William C. Rader, MD",
+    "firstname": "William C.",
+    "lastname": "Rader",
     "link": "https://quackwatch.org/06ResearchProjects/stemcell.html"
   },
   {
     "id": "c5a4d9a4-8c86-4810-8d41-4e82186b40bc",
-    "name": "Mathias Rath, MD",
+    "name": "Mathias Rath, MD",
+    "firstname": "Mathias",
+    "lastname": "Rath",
     "link": "https://www.quackwatch.org/11Ind/rath.html"
   },
   {
     "id": "623fdd2c-4061-4ba7-b5e9-3835b5e70592",
     "name": "Seshagiri Rao, MD",
+    "firstname": "Seshagiri",
+    "lastname": "Rao",
     "link": "http://www.casewatch.net/board/med/rao/complaint.shtml"
   },
   {
     "id": "0da5333b-1f63-4b8f-ad1e-bf90895f3d9d",
     "name": "Bernard Raxlen, MD",
+    "firstname": "Bernard",
+    "lastname": "Raxlen",
     "link": "http://www.casewatch.net/board/med/raxlen/decision.shtml"
   },
   {
     "id": "ae848041-774d-4704-aba7-f42f1ed6761f",
-    "name": "Shelvie Rettmann",
+    "name": "Shelvie Rettmann",
+    "firstname": "Shelvie",
+    "lastname": "Rettmann",
     "link": "https://quackwatch.org/04ConsumerEducation/News/rife.html"
   },
   {
     "id": "34a6b164-f6b8-4e3e-8f98-65f73f05bf5e",
-    "name": "Joseph E. Rich, MD",
+    "name": "Joseph E. Rich, MD",
+    "firstname": "Joseph E.",
+    "lastname": "Rich",
     "link": "http://www.casewatch.net/board/med/rich/order_2007.shtml"
   },
   {
     "id": "218c8d57-1e9e-480f-ba11-1d9a8541ee1e",
     "name": "Insabel de los Rios",
+    "firstname": "Insabel",
+    "lastname": "de los Rios",
     "link": "https://cspinet.org/tip/find-flaw"
   },
   {
     "id": "0836a29a-102c-446d-b0fd-e1c568a77013",
     "name": "Anthony Robbins",
+    "firstname": "Anthony",
+    "lastname": "Robbins",
     "link": "http://www.ncahf.org/articles/o-r/robbins.html"
   },
   {
     "id": "9a8d41f6-1120-470a-9e14-16a4f8715f67",
-    "name": "Joel Robbins, DC, ND, MD",
+    "name": "Joel Robbins, DC, ND, MD",
+    "firstname": "Joel",
+    "lastname": "Robbins",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Tests/livecell.html"
   },
   {
     "id": "c89bcd7a-e249-470d-b9d8-110b7484c6b0",
     "name": "Carol Roberts, MD",
+    "firstname": "Carol",
+    "lastname": "Roberts",
     "link": "https://quackwatch.org/cases/board/med/roberts/amended_complaint/"
   },
   {
     "id": "79aeb661-0c9b-4074-bb1c-a7405664e81f",
     "name": "Anthony G. Roeder, DDS",
+    "firstname": "Anthony G.",
+    "lastname": "Roeder",
     "link": "https://www.quackwatch.org/11Ind/roeder.html"
   },
   {
     "id": "9f04c680-85a7-4b91-ab96-9ee1d283dd07",
     "name": "Robert J. Rogers, MD",
+    "firstname": "Robert J.",
+    "lastname": "Rogers",
     "link": "http://www.casewatch.net/board/med/rogers/complaint2.shtml"
   },
   {
     "id": "a182285f-98da-46bf-bf18-ba2969a59d2b",
     "name": "Sherry A. Rogers, MD",
+    "firstname": "Sherry A.",
+    "lastname": "Rogers",
     "link": "https://centerforinquiry.org/wp-content/uploads/sites/33/quackwatch/casewatch/board/med/rogers.pdf"
   },
   {
     "id": "a91593eb-1af2-4b3b-84ee-ea5ab8cb9baf",
     "name": "Robert Jay Rowen, MD",
+    "firstname": "Robert Jay",
+    "lastname": "Rowen",
     "link": "https://quackwatch.org/11ind/robert-rowen-sentenced-to-prison-2022/"
   },
   {
     "id": "c5774337-0409-49a1-a5a8-0e1e4ea5559f",
-    "name": "David W. Rowland",
+    "name": "David W. Rowland",
+    "firstname": "David W.",
+    "lastname": "Rowland",
     "link": "https://www.quackwatch.org/11Ind/rowland.html"
   },
   {
     "id": "cce55da8-f7b6-473b-8a6e-d277082ee6c9",
     "name": "Michel Y. Roy, DC",
+    "firstname": "Michel Y.",
+    "lastname": "Roy",
     "link": "http://www.chirobase.org/08Legal/roy.html"
   },
   {
     "id": "bc34181e-2580-4b6f-a655-12edeb8586c1",
     "name": "Bozena Rozum-Slota, MD",
+    "firstname": "Bozena",
+    "lastname": "Rozum-Slota",
     "link": "https://quackwatch.org/11ind/rozum-slota.html"
   },
   {
     "id": "fe123848-dd30-4a75-87bb-b87be54f3ceb",
     "name": "Jordan S. Rubin, NMD, PhD, CNC",
+    "firstname": "Jordan S.",
+    "lastname": "Rubin",
     "link": "https://www.quackwatch.org/11Ind/rubin.html"
   },
   {
     "id": "831e8bda-ac05-4637-8b94-ac51c4ed1a6f",
     "name": "Geronimo Rubio, MD",
+    "firstname": "Geronimo",
+    "lastname": "Rubio",
     "link": "https://www.quackwatch.org/11Ind/rubio/history.html"
   },
   {
     "id": "b07173b0-6598-4c3f-a7fe-a3d13af6b845",
     "name": "Carol Ann Ryser, MD",
+    "firstname": "Carol Ann",
+    "lastname": "Ryser",
     "link": "https://www.quackwatch.org/11Ind/ryser.html"
   },
   {
     "id": "c53a5eac-9609-4ea6-b783-2b17d0d1047e",
-    "name": "Raymond J. Salani, PhD",
+    "name": "Raymond J. Salani, PhD",
+    "firstname": "Raymond J.",
+    "lastname": "Salani",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/donsbachuniv.html#salani"
   },
   {
     "id": "e26355d0-516a-43a2-914a-c4326297d2d6",
-    "name": "Humbart Santillo, ND",
+    "name": "Humbart Santillo, ND",
+    "firstname": "Humbart",
+    "lastname": "Santillo",
     "link": "http://www.mlmwatch.org/04C/NSA/juiceplus.html#santillo"
   },
   {
     "id": "39940644-f9f4-4ca5-9ef6-46812fb9b79d",
     "name": "Andrew Saul, PhD",
+    "firstname": "Andrew",
+    "lastname": "Saul",
     "link": "https://mdprevent.blogspot.com/2012/09/can-you-trust-andrew-saul.html"
   },
   {
     "id": "00ed57c8-b5c4-4ed7-bc2d-035c7f5129c7",
     "name": "Thomas S. Sawyer",
+    "firstname": "Thomas S.",
+    "lastname": "Sawyer",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/theratec.html"
   },
   {
     "id": "cfafb6cf-bb11-4c23-81a6-d7acac85426c",
     "name": "Amy B. Scher",
+    "firstname": "Amy B.",
+    "lastname": "Scher",
     "link": "https://sciencebasedmedicine.org/who-is-amy-b-scher/"
   },
   {
     "id": "f8f1a305-faf1-4709-8e75-d600349c7ebe",
-    "name": "Alan Schwartz, MD",
+    "name": "Alan Schwartz, MD",
+    "firstname": "Alan",
+    "lastname": "Schwartz",
     "link": "http://www.casewatch.net/board/med/schwartz/accusation.shtml"
   },
   {
     "id": "4ebce1bf-90c2-4855-a851-d7b485e0b71e",
     "name": "Rick Scott",
+    "firstname": "Rick",
+    "lastname": "Scott",
     "link": "http://www.insurancereformwatch.org/opposition/cpr.shtml"
   },
   {
     "id": "64cd241b-76bf-4494-8a17-debf2a88be21",
     "name": "Robert W. Sears, MD",
+    "firstname": "Robert W.",
+    "lastname": "Sears",
     "link": "http://www.sciencebasedmedicine.org/?p=512"
   },
   {
     "id": "4f2e358b-cb7b-47b4-955c-9ccc3b96e725",
     "name": "Darryl See, MD",
+    "firstname": "Darryl",
+    "lastname": "See",
     "link": "http://www.casewatch.net/board/med/see/accusation.shtml"
   },
   {
     "id": "736cc552-1206-433f-a6e9-db34c18993eb",
     "name": "Sergio Stagnaro, MD",
+    "firstname": "Sergio",
+    "lastname": "Stagnaro",
     "link": "http://scienceblogs.com/insolence/2009/01/09/your-friday-dose-of-woo-the-revenge-of-s/"
   },
   {
     "id": "ae7d4067-2a08-4fa4-a257-56a00a91f1cc",
-    "name": "Wesley Shankland, DDS",
+    "name": "Wesley Shankland, DDS",
+    "firstname": "Wesley",
+    "lastname": "Shankland",
     "link": "http://www.dentalwatch.org/reg/shankland.html"
   },
   {
     "id": "933f942d-44f4-418e-82fd-cc400e460705",
-    "name": "Todata R. Shanthaveerappa, M.D. (a/k/a T.R. Shantha, M.D.",
+    "name": "Todata R. Shanthaveerappa, M.D. (a/k/a T.R. Shantha, M.D.",
+    "firstname": "Todata R.",
+    "lastname": "Shanthaveerappa",
+    "nickname": "T.R. Shantha",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/Cancer/icht.html"
   },
   {
     "id": "3cf99850-b4dd-4329-9374-6f602fddb003",
     "name": "C. Norman Shealey, MD",
+    "firstname": "C. Norman",
+    "lastname": "Shealey",
     "link": "http://www.casewatch.net/fdawarning/prod/1998/shealy.shtml"
   },
   {
     "id": "dce34ae7-cfe2-4030-a5b0-66cf8577c877",
-    "name": "James Shen, DDS",
+    "name": "James Shen, DDS",
+    "firstname": "James",
+    "lastname": "Shen",
     "link": "http://www.casewatch.net/board/dent/shen/accusation_2006.shtml"
   },
   {
     "id": "8c78ac95-6952-4b54-a43f-fc9ac7d924a3",
-    "name": "Richie Shoemaker, MD",
+    "name": "Richie Shoemaker, MD",
+    "firstname": "Richie",
+    "lastname": "Shoemaker",
     "link": "http://www.casewatch.net/fdawarning/rsch/shoemaker.shtml"
   },
   {
     "id": "f4dd19f8-2eda-42cb-b75f-b85cfa2c72f7",
     "name": "James M. Shortt, MD",
+    "firstname": "James M.",
+    "lastname": "Shortt",
     "link": "https://www.quackwatch.org/11Ind/shortt.html"
   },
   {
     "id": "dd7feb9a-98e6-4350-acb9-2a7a87b2ca28",
     "name": "Robann Sica, MD",
+    "firstname": "Robann",
+    "lastname": "Sica",
     "link": "https://www.quackwatch.org/11Ind/sica.html"
   },
   {
     "id": "0aae2693-63ab-43cd-a651-dc6cc43079ff",
     "name": "Stephen L. Smith, MD",
+    "firstname": "Stephen L.",
+    "lastname": "Smith",
     "link": "http://www.casewatch.net/board/med/smith/final_order.shtml"
   },
   {
     "id": "e18aa13f-7706-4792-9337-36d7bcc67ce4",
     "name": "Suzanne Somers",
+    "firstname": "Suzanne",
+    "lastname": "Somers",
     "link": "http://www.thedailybeast.com/blogs-and-stories/2009-11-09/does-suzanne-somers-cause-cancer/"
   },
   {
     "id": "3484ea44-a25b-444d-8118-b2eb1c05aa49",
-    "name": "Marvin Sponaugle, M.D",
+    "name": "Marvin Sponaugle, MD",
+    "firstname": "Marvin",
+    "lastname": "Sponaugle",
     "link": "https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/33/2023/01/10170322/sponaugle_order_2022.pdf"
   },
   {
     "id": "cb84f46b-b563-4c7a-ab3f-013723e16df3",
     "name": "William M. Spurlock, MD",
+    "firstname": "William M.",
+    "lastname": "Spurlock",
     "link": "http://www.casewatch.net/board/med/spurlock/complaint_2011.shtml"
   },
   {
     "id": "719e9357-2b92-4015-a48f-556fa60fa095",
     "name": "Leanna J. Standish, ND, PhD, Dipl Ac",
+    "firstname": "Leanna J.",
+    "lastname": "Standish",
     "link": "https://www.quackwatch.org/11Ind/IOM/standish.html"
   },
   {
     "id": "c7f61110-b54d-4e02-a060-1573b703c949",
     "name": "John E. Stauch, PhD",
+    "firstname": "John E.",
+    "lastname": "Stauch",
     "link": "https://www.quackwatch.org/11Ind/stauch.html"
   },
   {
     "id": "e569d93c-846c-4473-ae98-7e6b0fb5ec21",
     "name": "David A. Steenblock, MD",
+    "firstname": "David A.",
+    "lastname": "Steenblock",
     "link": "https://www.quackwatch.org/11Ind/steenblock3.html"
   },
   {
     "id": "c49f33b5-4fa6-4105-ad19-e07c23848988",
-    "name": "Jesse A. Stoff, MD",
+    "name": "Jesse A. Stoff, MD",
+    "firstname": "Jesse A.",
+    "lastname": "Stoff",
     "link": "http://www.mlmwatch.org/06FTC/BodyWise/bodywiseftc2.html"
   },
   {
     "id": "1b39c19a-c1f8-4d12-834d-ff4100e86184",
     "name": "Philip Straw, DC",
+    "firstname": "Philip",
+    "lastname": "Straw",
     "link": "https://sciencebasedmedicine.org/the-straw-protocol-a-chiropractors-aggressively-promoted-neuropathy-treatment/"
   },
   {
     "id": "3b8c4490-b9b0-4da1-b3e1-7e973df06fc5",
-    "name": "Arnold J. Susser, RPh, PhD",
+    "name": "Arnold J. Susser, RPh, PhD",
+    "firstname": "Arnold J.",
+    "lastname": "Susser",
     "link": "http://www.casewatch.net/usps/greatlife.shtml"
   },
   {
     "id": "732b7945-a364-4fcb-866e-eaf7ea528530",
     "name": "Murray Susser, MD",
+    "firstname": "Murray",
+    "lastname": "Susser",
     "link": "http://www.casewatch.net/board/med/susser/2005order.shtml"
   },
   {
     "id": "909067bd-8476-4341-9bfe-f1fc24296a7b",
     "name": "Stuart M. Suster, MD",
+    "firstname": "Stuart M.",
+    "lastname": "Suster",
     "link": "https://www.quackwatch.org/11Ind/suster.html"
   },
   {
     "id": "9e80a9bd-3129-4eba-b381-cd368be7b8cf",
-    "name": "Arnold C. Takemoto",
+    "name": "Arnold C. Takemoto",
+    "firstname": "Arnold C.",
+    "lastname": "Takemoto",
     "link": "https://www.sec.gov/litigation/admin/34-43246.htm"
   },
   {
     "id": "4f56d331-de88-479f-8a97-1e9411ee01e2",
-    "name": "Shawn M. Talbot, PhD",
+    "name": "Shawn M. Talbot, PhD",
+    "firstname": "Shawn M.",
+    "lastname": "Talbot",
     "link": "https://www.ftc.gov/opa/2005/09/windowrock.htm"
   },
   {
     "id": "90793558-ebff-4d67-8d72-21f55a01cdc8",
-    "name": "Katrina C. Tang, HMD",
+    "name": "Katrina C. Tang, HMD",
+    "firstname": "Katrina C.",
+    "lastname": "Tang",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/electro.html#century"
   },
   {
     "id": "736c3990-1975-46f6-9f20-e2cd4d482761",
     "name": "Jerald Tennant, MD",
+    "firstname": "Jerald",
+    "lastname": "Tennant",
     "link": "http://www.casewatch.net/board/med/tennant/order_2017.shtml"
   },
   {
     "id": "2970057a-2074-4847-b389-49db7aa03e68",
-    "name": "Michael Teplitsky, MD (aka Michael Tepliski, MD)",
+    "name": "Michael Teplitsky, MD (aka Michael Tepliski, MD)",
+    "firstname": "Michael",
+    "lastname": "Teplitsky",
+    "nickname": "Michael Tepliski",
     "link": "https://www.quackwatch.org/11Ind/teplitsky.html"
   },
   {
     "id": "b4773061-47b1-4543-8269-e4e321201255",
     "name": "Ron Tepper",
+    "firstname": "Ron",
+    "lastname": "Tepper",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/PhonyAds/braswellftc2.html"
   },
   {
     "id": "8121c570-6254-4ae6-9cfa-dd3c06e01233",
     "name": "Thomas Ronald Theodore",
+    "firstname": "Thomas Ronald",
+    "lastname": "Theodore",
     "link": "https://www.quackwatch.org/11Ind/theodore.html"
   },
   {
     "id": "8d154f74-7745-45ed-943a-ae72dd023003",
     "name": "Alexander W. Thermos, DO",
+    "firstname": "Alexander W.",
+    "lastname": "Thermos",
     "link": "http://www.casewatch.net/board/med/thermos/surrender.shtml"
   },
   {
     "id": "92266b27-cefd-4a15-830c-7c4783af6f83",
-    "name": "Stephen R. Thomas",
+    "name": "Stephen R. Thomas",
+    "firstname": "Stephen R.",
+    "lastname": "Thomas",
     "link": "https://quackwatch.org/04ConsumerEducation/Nonrecorg/amna.html"
   },
   {
     "id": "b7583151-be89-4534-b159-b8be1b74fe5b",
     "name": "Steven Tondre",
+    "firstname": "Steven",
+    "lastname": "Tondre",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/aids.html#tondre"
   },
   {
     "id": "047b6d0a-66ec-43cd-afe0-38ebc217853c",
     "name": "John R. Toth, MD",
+    "firstname": "John R.",
+    "lastname": "Toth",
     "link": "http://www.casewatch.net/board/med/toth/consentorder.shtml"
   },
   {
     "id": "9401c316-9f8c-411a-98bc-fe34d4b47337",
-    "name": "Timothy S. Trader, NMD, PhD, DD",
+    "name": "Timothy S. Trader, NMD, PhD, DD",
+    "firstname": "Timothy S.",
+    "lastname": "Trader",
     "link": "https://quackwatch.org/02ConsumerProtection/tanglewood.html"
   },
   {
     "id": "bca7e909-92ac-4459-a05b-ed625ee5fa93",
     "name": "John Parks Trowbridge, MD",
+    "firstname": "John Parks",
+    "lastname": "Trowbridge",
     "link": "https://quackwatch.org/11ind/a-skeptical-look-at-john-parks-trowbridge-m-d/"
   },
   {
     "id": "bed8def6-4dda-4b06-903e-88af29043fa2",
     "name": "Kevin Trudeau",
+    "firstname": "Kevin",
+    "lastname": "Trudeau",
     "link": "http://www.casewatch.net/ftc/enforcements/trudeau/index.shtml"
   },
   {
     "id": "e01a01da-454c-4cbc-ac2e-c7a4eb4a85a5",
     "name": "C. Orian Truss, MD",
+    "firstname": "C. Orian",
+    "lastname": "Truss",
     "link": "https://www.quackwatch.org/01QuackeryRelatedTopics/candida.html"
   },
   {
     "id": "acb16936-d61f-4b9e-aafd-54fa34bcb49e",
     "name": "Dana Ullman, MPH*",
+    "firstname": "Dana",
+    "lastname": "Ullman",
     "link": "https://rationalwiki.org/wiki/Dana_Ullman"
   },
   {
     "id": "62209865-738e-4775-b04f-62bc9a81470b",
     "name": "Anjum Usman, MD",
+    "firstname": "Anjum",
+    "lastname": "Usman",
     "link": "http://www.casewatch.net/board/med/usman/complaint.shtml"
   },
   {
     "id": "e088a63f-2631-467a-aa40-779b3e33111a",
     "name": "Michael Uzick, ND",
+    "firstname": "Michael",
+    "lastname": "Uzick",
     "link": "http://www.casewatch.net/board/nat/uzick/consent.shtml"
   },
   {
     "id": "16b246f8-81e0-4416-9c83-2cb31917699a",
     "name": "Jason Vale",
+    "firstname": "Jason",
+    "lastname": "Vale",
     "link": "https://www.quackwatch.org/02ConsumerProtection/FDAActions/vale.html"
   },
   {
     "id": "ae8b6621-e27c-4732-8fd1-5c5a1c8b2f66",
     "name": "Richard Vander Heyden, DDS",
+    "firstname": "Richard",
+    "lastname": "Vander Heyden",
     "link": "https://www.quackwatch.org/11Ind/vander.html"
   },
   {
     "id": "32914042-0013-47c7-a615-66dc1934d8ba",
     "name": "Arthur Vanmoor",
+    "firstname": "Arthur",
+    "lastname": "Vanmoor",
     "link": "https://www.quackwatch.org/11Ind/vanmoor.html"
   },
   {
     "id": "b65a8a35-5791-4577-99db-9125f8046fac",
     "name": "Herald E. Vermette, DDS",
+    "firstname": "Herald E.",
+    "lastname": "Vermette",
     "link": "http://www.casewatch.net/board/dent/vermette/order.shtml"
   },
   {
     "id": "361ec116-985f-4698-bdc5-00175cc6d53e",
     "name": "Colleen Victory, MD (a/k/a/Kelly Victory, MD",
+    "firstname": "Colleen",
+    "lastname": "Victory",
+    "nickname": "Kelly Victory",
     "link": "https://quackwatch.org/11ind/a-skeptical-look-at-kelly-victory-m-d/"
   },
   {
     "id": "ebd65e07-ba81-4a71-85ea-9094066a4005",
-    "name": "Jonathan Wainwright",
+    "name": "Jonathan Wainwright",
+    "firstname": "Jonathan",
+    "lastname": "Wainwright",
     "link": "http://www.mg.co.za/mg/news/2000jan2/31jan-kenya_aids.html"
   },
   {
     "id": "6969d365-90f4-4b75-8ace-98bafe799948",
     "name": "Andrew Wakefield",
+    "firstname": "Andrew",
+    "lastname": "Wakefield",
     "link": "http://briandeer.com/mmr/lancet-summary.htm"
   },
   {
     "id": "79162ef3-7746-4126-962a-8319f4fe00c2",
-    "name": "Joel D. Wallach, DVM, ND",
+    "name": "Joel D. Wallach, DVM, ND",
+    "firstname": "Joel D.",
+    "lastname": "Wallach",
     "link": "https://quackwatch.org/01QuackeryRelatedTopics/DSH/colloidalminerals.html"
   },
   {
     "id": "716d1cff-f506-4b7e-8996-6df83cad30aa",
     "name": "Chris Wark",
+    "firstname": "Chris",
+    "lastname": "Wark",
     "link": "https://www.quackwatch.org/11Ind/wark.html"
   },
   {
     "id": "60feb4a6-7936-41d5-aeeb-dbbd33e028ca",
     "name": "U.S. Rep. Diane Watson",
+    "firstname": "Diane",
+    "lastname": "Watson",
     "link": "https://www.quackwatch.org/11Ind/Watson/watson.html"
   },
   {
     "id": "85598ac7-3db3-45b3-b7a0-3b971cdc6868",
     "name": "Bradford S. Weeks, MD",
+    "firstname": "Bradford S.",
+    "lastname": "Weeks",
     "link": "http://www.casewatch.net/board/med/weeks/amended_charges_2012.shtml"
   },
   {
     "id": "273ade12-a4e0-4e8d-b264-6126e7cfd153",
     "name": "Andrew Weil, MD",
+    "firstname": "Andrew",
+    "lastname": "Weil",
     "link": "https://www.quackwatch.org/11Ind/weil.html"
   },
   {
     "id": "d7a68a95-b1f4-437d-97c4-ad1e88fa1733",
-    "name": "Jordan Weiss, MD",
+    "name": "Jordan Weiss, MD",
+    "firstname": "Jordan",
+    "lastname": "Weiss",
     "link": "http://www.mentalhealthwatch.org/reports/weiss.shtml"
   },
   {
     "id": "7b7ac7f0-4580-4973-a67f-4248ec88345a",
     "name": "Kenneth J. Welker, MD",
+    "firstname": "Kenneth J.",
+    "lastname": "Welker",
     "link": "http://www.casewatch.net/board/med/welker/suspension.shtml"
   },
   {
     "id": "2537c083-0862-4079-bace-5fcc9900d46a",
     "name": "Ronald Wempen, MD",
+    "firstname": "Ronald",
+    "lastname": "Wempen",
     "link": "http://www.casewatch.net/board/med/wempen/accusation.shtml"
   },
   {
     "id": "74424390-6690-4ced-b283-3ae1a048f3d4",
     "name": "Scott Rulon Werner, MD",
+    "firstname": "Scott Rulon",
+    "lastname": "Werner",
     "link": "http://www.casewatch.net/doj/werner/indictment.shtml"
   },
   {
     "id": "5c523704-5401-4644-a0e9-87a5c898db2d",
-    "name": "Julian Whitaker, MD",
+    "name": "Julian Whitaker, MD",
+    "firstname": "Julian",
+    "lastname": "Whitaker",
     "link": "http://www.acsh.org/publications/priorities/1104/jw.html"
   },
   {
     "id": "c514cb41-2bbc-4b50-8ee8-796150756fa5",
     "name": "Yolanda White, MD",
+    "firstname": "Yolanda",
+    "lastname": "White",
     "link": "https://www.quackwatch.org/11Ind/whyte.html"
   },
   {
     "id": "934b428c-fa76-4218-a70d-5d0428d43254",
     "name": "Robert B. Wickman, DO",
+    "firstname": "Robert B.",
+    "lastname": "Wickman",
     "link": "https://www.quackwatch.org/11Ind/wickman.html"
   },
   {
     "id": "cbbc1080-b443-4745-a109-b4ba04c57f7f",
     "name": "Frank D. Wiewel",
+    "firstname": "Frank D.",
+    "lastname": "Wiewel",
     "link": "https://quackwatch.org/04ConsumerEducation/Nonrecorg/pac.html"
   },
   {
     "id": "81f6c28d-7507-4214-9753-014dca4033d9",
-    "name": "David Williams, DC",
+    "name": "David Williams, DC",
+    "firstname": "David",
+    "lastname": "Williams",
     "link": "http://www.ncahf.org/articles/c-d/davidwilliams.html"
   },
   {
     "id": "e9d1e210-f8d1-4956-8ba2-41d667a31166",
     "name": "E. Denis Wilson, MD",
+    "firstname": "E. Denis",
+    "lastname": "Wilson",
     "link": "https://quackwatch.org/04ConsumerEducation/News/wilson.html"
   },
   {
     "id": "55ee1ff8-7f53-4aee-9f84-58d513da5ff6",
     "name": "Oprah Winfrey",
+    "firstname": "Oprah",
+    "lastname": "Winfrey",
     "link": "http://www.csicop.org/si/show/oprah_winfrey_bright_but_gullible_billionaire/"
   },
   {
     "id": "5ad9605c-9819-410b-84e1-417ad0272e3d",
     "name": "Juergen Winkler, MD",
+    "firstname": "Juergen",
+    "lastname": "Winkler",
     "link": "http://www.casewatch.net/board/med/winkler/accusation.shtml"
   },
   {
     "id": "643e54e7-aa3d-4aec-974b-0e8d8d1949d3",
     "name": "Ray Wisniewski, DC",
+    "firstname": "Ray",
+    "lastname": "Wisniewski",
     "link": "http://www.chirobase.org/06DD/nutrimost/overview.html"
   },
   {
     "id": "271f4e71-3170-41ee-969d-21bc965167bb",
-    "name": "Jonathan V. Wright, MD",
+    "name": "Jonathan V. Wright, MD",
+    "firstname": "Jonathan V.",
+    "lastname": "Wright",
     "link": "https://quackwatch.org/04ConsumerEducation/Nonrecorg/aqa.html"
   },
   {
     "id": "58de8048-408a-49de-ab05-82a9da9fa722",
-    "name": "Paul Yanick, Jr,. PhD, ND, CNC, CQM",
+    "name": "Paul Yanick, Jr., PhD, ND, CNC, CQM",
+    "firstname": "Paul",
+    "lastname": "Yanick",
     "link": "https://quackwatch.org/04ConsumerEducation/Nonrecorg/aaqm.html"
   },
   {
     "id": "6aa49539-d100-4c66-8b05-71195ce5f06b",
     "name": "Amy Yasko, PhD, ND, NHD",
+    "firstname": "Amy",
+    "lastname": "Yasko",
     "link": "https://sciencebasedmedicine.org/dr-amy-yaskos-autism-protocol-unproven-complicated-and-expensive/"
   },
   {
     "id": "98c6ef76-e902-491d-89c1-6fe7525c13c1",
-    "name": "Robert O. Young, MS, DSc, PhD, ND",
+    "name": "Robert O. Young, MS, DSc, PhD, ND",
+    "firstname": "Robert O.",
+    "lastname": "Young",
     "link": "https://www.quackwatch.org/11Ind/young3.html"
   },
   {
     "id": "12f47b99-0d46-4f09-98f0-1aa58348561e",
-    "name": "Chester Yozwick",
+    "name": "Chester Yozwick",
+    "firstname": "Chester",
+    "lastname": "Yozwick",
     "link": "https://quackwatch.org/04ConsumerEducation/Nonrecorg/bernadean.html#yozwick"
   },
   {
     "id": "fc51c4f2-0312-4707-adaa-c5f94d52b8e5",
     "name": "Sam Zeller",
+    "firstname": "Sam",
+    "lastname": "Zeller",
     "link": "http://www.casewatch.net/board/couns/zeller/order_2015.shtml"
   }
 ]
