@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  },
+  "name": "kimchisquacks",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapeDoctors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": ""
+}
