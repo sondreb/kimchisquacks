@@ -120,25 +120,35 @@ async function generateSummary(content) {
 async function main() {
   try {
     await listAvailableModels();
-    const data = JSON.parse(await readFile('doctors.json', 'utf8'));
+    const data = JSON.parse(await readFile('doctors-output.json', 'utf8'));
     
     for (let i = 0; i < data.length; i++) {
       console.log(`Processing ${i + 1}/${data.length}: ${data[i].name}`);
       const content = await fetchAndCleanContent(data[i].link);
       if (content) {
-        data[i].content = content;
-        data[i].summary = await generateSummary(content);
+        // data[i].summary = await generateSummary(content);
         // Add word counts
         data[i].cancerCount = countWordOccurrences(content, 'cancer');
+        data[i].malignancyCount = countWordOccurrences(content, 'malignancy');
+        data[i].neoplasmCount = countWordOccurrences(content, 'malignant neoplasm');
+        data[i].psuedoScienceCount = countWordOccurrences(content, 'pseudoscience');
         data[i].holisticCount = countWordOccurrences(content, 'holistic');
         data[i].alternativeCount = countWordOccurrences(content, 'alternative');
+        data[i].deathCount = countWordOccurrences(content, 'death');
+        data[i].deadCount = countWordOccurrences(content, 'dead');
+        data[i].deceasedCount = countWordOccurrences(content, 'deceased');
+
+        data[i].content = content;
       }
+
+      await writeFile('doctors-content.json', JSON.stringify(data, null, 2));
+
       // Add small delay to avoid overwhelming servers
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
 
-    await writeFile('doctors.json', JSON.stringify(data, null, 2));
-    console.log('Updated data saved to doctors.json');
+    await writeFile('doctors-content.json', JSON.stringify(data, null, 2));
+    console.log('Updated data saved to doctors-content.json');
   } catch (error) {
     console.error('Error:', error);
   }
