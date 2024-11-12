@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const deadCountParagraph = document.createElement('p');
                 const deceasedCountParagraph = document.createElement('p');
                 const linkAnchor = document.createElement('a');
+                const expandButton = document.createElement('button');
+                const additionalDataDiv = document.createElement('div');
 
                 nameHeader.textContent = doctor.name;
                 cancerCountParagraph.textContent = `Cancer Count: ${doctor.cancerCount}`;
@@ -29,7 +31,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 deceasedCountParagraph.textContent = `Deceased Count: ${doctor.deceasedCount}`;
                 linkAnchor.href = doctor.link;
                 linkAnchor.textContent = doctor.link;
+                expandButton.textContent = 'Show Data';
+                additionalDataDiv.style.display = 'none';
 
+                expandButton.addEventListener('click', () => {
+                    if (additionalDataDiv.style.display === 'none') {
+                        additionalDataDiv.style.display = 'block';
+                        expandButton.textContent = 'Hide Data';
+                    } else {
+                        additionalDataDiv.style.display = 'none';
+                        expandButton.textContent = 'Show Data';
+                    }
+                });
+
+                // Append the always visible elements
                 doctorDiv.appendChild(nameHeader);
                 doctorDiv.appendChild(cancerCountParagraph);
                 doctorDiv.appendChild(alternativeCountParagraph);
@@ -41,6 +56,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 doctorDiv.appendChild(deadCountParagraph);
                 doctorDiv.appendChild(deceasedCountParagraph);
                 doctorDiv.appendChild(linkAnchor);
+
+                // Append the expandable data
+                if (doctor.data) {
+                    const dataParagraph = document.createElement('p');
+                    dataParagraph.textContent = JSON.stringify(doctor.data, null, 2);
+                    additionalDataDiv.appendChild(dataParagraph);
+                }
+
+                doctorDiv.appendChild(expandButton);
+                doctorDiv.appendChild(additionalDataDiv);
 
                 container.appendChild(doctorDiv);
             });
